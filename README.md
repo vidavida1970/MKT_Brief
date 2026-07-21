@@ -11,6 +11,7 @@ Addit Daily Marketing Brief 정적 웹 아카이브입니다.
 
 | 발행일 | 브리핑 제목 | 웹 뉴스레터 | 원문 |
 |---|---|---|---|
+| 2026.07.22 | 설명·참여·제품화가 구매 행동을 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-22/) | [Markdown](source/2026-07-22.md) |
 | 2026.07.21 | 브랜드는 노출이 아니라, 행동과 문화에 남는다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-21/) | [Markdown](source/2026-07-21.md) |
 | 2026.07.17 | 콘텐츠는 한 편이 아니라, 다시 찾게 만드는 구조다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-17/) | [보관 폴더](archive/2026-07-17/) |
 
