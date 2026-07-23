@@ -20,4 +20,8 @@ Addit Daily Marketing Brief 정적 웹 아카이브입니다.
 
 1. 새 날짜의 HTML과 원문을 추가합니다.
 2. 웹·저장소 날짜별 목록을 최신순으로 갱신합니다.
-3. 기존 날짜 보관본은 덮어쓰지 않습니다.
+3. 당일 브리프 제목을 넣은 1200×630 PNG를 `assets/og-YYYY-MM-DD-vN.png`로 추가합니다.
+4. 날짜별 HTML에 `og:title`, `og:description`, `og:url`, `og:image`, 이미지 규격·대체텍스트와 Twitter Card를 설정합니다.
+5. 공개 GitHub Pages에서 OG 이미지가 200 응답·1200×630 PNG·정상 한글로 표시되는지 확인합니다.
+6. 카카오톡 공유 주소에는 `?kakao=YYYYMMDD-ko-vN`을 붙여 이전 캐시와 구분합니다.
+7. 기존 날짜 보관본은 덮어쓰지 않습니다.
