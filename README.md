@@ -11,6 +11,7 @@ Addit Daily Marketing Brief 정적 웹 아카이브입니다.
 
 | 발행일 | 브리핑 제목 | 웹 뉴스레터 | 원문 |
 |---|---|---|---|
+| 2026.07.24 | 답변·대화·문화가 구매를 움직인다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-24/?kakao=20260724-ko-v1) | [Markdown](source/2026-07-24.md) |
 | 2026.07.23 | 발견을 행동으로 바꾸는 참여 설계 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-23/) | [Markdown](source/2026-07-23.md) |
 | 2026.07.22 | 설명·참여·제품화가 구매 행동을 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-22/) | [Markdown](source/2026-07-22.md) |
 | 2026.07.21 | 브랜드는 노출이 아니라, 행동과 문화에 남는다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-21/) | [Markdown](source/2026-07-21.md) |
