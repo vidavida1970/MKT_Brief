@@ -11,6 +11,7 @@ Addit Daily Marketing Brief 정적 웹 아카이브입니다.
 
 | 발행일 | 브리핑 제목 | 웹 뉴스레터 | 원문 |
 |---|---|---|---|
+| 2026.07.28 | 관심을 행동으로 바꾸는 브랜드 설계 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-28/?kakao=20260728-ko-v1) | [Markdown](source/2026-07-28.md) |
 | 2026.07.27 | 광고는 ‘발견과 전환’에서 완성된다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-27/?kakao=20260727-ko-v1) | [Markdown](source/2026-07-27.md) |
 | 2026.07.24 | 답변·대화·문화가 구매를 움직인다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-24/?kakao=20260724-ko-v1) | [Markdown](source/2026-07-24.md) |
 | 2026.07.23 | 발견을 행동으로 바꾸는 참여 설계 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-23/) | [Markdown](source/2026-07-23.md) |
@@ -27,3 +28,4 @@ Addit Daily Marketing Brief 정적 웹 아카이브입니다.
 5. 공개 GitHub Pages에서 OG 이미지가 200 응답·1200×630 PNG·정상 한글로 표시되는지 확인합니다.
 6. 카카오톡 공유 주소에는 `?kakao=YYYYMMDD-ko-vN`을 붙여 이전 캐시와 구분합니다.
 7. 기존 날짜 보관본은 덮어쓰지 않습니다.
+
