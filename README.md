@@ -11,6 +11,7 @@ Addit Daily Marketing Brief 정적 웹 아카이브입니다.
 
 | 발행일 | 브리핑 제목 | 웹 뉴스레터 | 원문 |
 |---|---|---|---|
+| 2026.07.31 | 관심은 ‘보는 순간’이 아니라 ‘참여하는 경로’에서 전환된다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-31/?kakao=20260731-ko-v1) | [Markdown](source/2026-07-31.md) |
 | 2026.07.30 | 광고는 ‘노출’보다 연결 구조에서 완성된다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-30/?kakao=20260730-ko-v1) | [Markdown](source/2026-07-30.md) |
 | 2026.07.29 | 팬덤·신뢰·구매 경로를 하나의 행동으로 연결하다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-29/?kakao=20260729-ko-v1) | [Markdown](source/2026-07-29.md) |
 | 2026.07.28 | 관심을 행동으로 바꾸는 브랜드 설계 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-28/?kakao=20260728-ko-v1) | [Markdown](source/2026-07-28.md) |
