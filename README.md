@@ -11,6 +11,7 @@ Addit Daily Marketing Brief 정적 웹 아카이브입니다.
 
 | 발행일 | 브리핑 제목 | 웹 뉴스레터 | 원문 |
 |---|---|---|---|
+| 2026.08.11 | 성과 캠페인은 소재가 아니라 데이터·참여 구조에서 갈린다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-11/?kakao=20260811-ko-v1) | [Markdown](source/2026-08-11.md) |
 | 2026.08.10 | 성과는 한 채널의 바이럴이 아니라 역할 분담과 신호 설계에서 나온다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-10/?kakao=20260810-ko-v1) | [Markdown](source/2026-08-10.md) |
 | 2026.08.06 | 브랜드가 만든 광고보다 사람들이 퍼뜨리는 장면이 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-06/?kakao=20260806-ko-v1) | [Markdown](source/2026-08-06.md) |
 | 2026.08.05 | 추상적 메시지일수록 ‘인물·문맥·행동’이 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-05/?kakao=20260805-ko-v1) | [Markdown](source/2026-08-05.md) |
