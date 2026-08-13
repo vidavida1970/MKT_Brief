@@ -11,6 +11,7 @@ Addit Daily Marketing Brief 정적 웹 아카이브입니다.
 
 | 발행일 | 브리핑 제목 | 웹 뉴스레터 | 원문 |
 |---|---|---|---|
+| 2026.08.14 | 숏폼 캠페인은 파편화된 노출보다 '풀퍼널·크리에이터 공급망·AI'가 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-14/?kakao=20260814-ko-v1) | [Markdown](source/2026-08-14.md) |
 | 2026.08.13 | 숏폼 커머스는 조회수보다 '크리에이터 + 틱톡샵 + 데이터' 연결이 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-13/?kakao=20260813-ko-v1) | [Markdown](source/2026-08-13.md) |
 | 2026.08.12 | 8월 캠페인은 할인이 아니라 날짜·미션·주의 품질로 설계한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-12/?kakao=20260812-ko-v1) | [Markdown](source/2026-08-12.md) |
 | 2026.08.11 | 성과 캠페인은 소재가 아니라 데이터·참여 구조에서 갈린다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-11/?kakao=20260811-ko-v1) | [Markdown](source/2026-08-11.md) |
