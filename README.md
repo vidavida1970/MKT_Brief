@@ -11,6 +11,7 @@ Addit Daily Marketing Brief 정적 웹 아카이브입니다.
 
 | 발행일 | 브리핑 제목 | 웹 뉴스레터 | 원문 |
 |---|---|---|---|
+| 2026.08.21 | 크리에이터 미디어화와 AI 커머스 자동화가 마케팅 성과를 직접 전환시킨다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-21/?kakao=20260821-ko-v1) | [Markdown](source/2026-08-21.md) |
 | 2026.08.20 | 숏폼 마케팅은 단순 노출보다 '데이터 미션·옴니채널·6초 VTR'이 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-20/?kakao=20260820-ko-v1) | [Markdown](source/2026-08-20.md) |
 | 2026.08.19 | 소셜 퍼포먼스는 단순 노출보다 '서사형 숏폼·인앱 쇼핑·AI'가 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-19/?kakao=20260819-ko-v1) | [Markdown](source/2026-08-19.md) |
 | 2026.08.18 | 성과형 마케팅은 소재 수보다 '퍼널 이벤트·크리에이터 인프라·AI'가 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-18/?kakao=20260818-ko-v1) | [Markdown](source/2026-08-18.md) |
