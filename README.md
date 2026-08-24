@@ -11,6 +11,7 @@ Addit Daily Marketing Brief 정적 웹 아카이브입니다.
 
 | 발행일 | 브리핑 제목 | 웹 뉴스레터 | 원문 |
 |---|---|---|---|
+| 2026.08.24 | 피지털 브랜딩과 AI 엔터프라이즈가 마케팅의 새로운 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-24/?kakao=20260824-ko-v1) | [Markdown](source/2026-08-24.md) |
 | 2026.08.23 | AI 퍼스널라이제이션과 옴니채널 숏폼이 소셜과 오프라인 전환을 완성시킨다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-23/?kakao=20260823-ko-v1) | [Markdown](source/2026-08-23.md) |
 | 2026.08.21 | 크리에이터 미디어화와 AI 커머스 자동화가 마케팅 성과를 직접 전환시킨다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-21/?kakao=20260821-ko-v1) | [Markdown](source/2026-08-21.md) |
 | 2026.08.20 | 숏폼 마케팅은 단순 노출보다 '데이터 미션·옴니채널·6초 VTR'이 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-20/?kakao=20260820-ko-v1) | [Markdown](source/2026-08-20.md) |
