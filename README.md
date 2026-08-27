@@ -11,6 +11,7 @@ Addit Daily Marketing Brief 정적 웹 아카이브입니다.
 
 | 발행일 | 브리핑 제목 | 웹 뉴스레터 | 원문 |
 |---|---|---|---|
+| 2026.08.28 | AI 오토메이션과 GEO 검색 최적화가 마케팅 성과 경로를 확장한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-28/?kakao=20260828-ko-v1) | [Markdown](source/2026-08-28.md) |
 | 2026.08.27 | AI 운영 에이전트와 B2B 풀퍼널이 참여와 전환의 새로운 기준을 세운다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-27/?kakao=20260827-ko-v1) | [Markdown](source/2026-08-27.md) |
 | 2026.08.26 | 숏폼 정보태그와 B2B 리더십 광고가 발견에서 직접 전환으로 이끈다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-26/?kakao=20260826-ko-v1) | [Markdown](source/2026-08-26.md) |
 | 2026.08.25 | AI 크리에이티브 파이프라인과 맥락 마케팅이 오프라인 전환과 브랜드 성장을 견인한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-25/?kakao=20260825-ko-v1) | [Markdown](source/2026-08-25.md) |
