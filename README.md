@@ -11,6 +11,7 @@ Addit Daily Marketing Brief 정적 웹 아카이브입니다.
 
 | 발행일 | 브리핑 제목 | 웹 뉴스레터 | 원문 |
 |---|---|---|---|
+| 2026.09.03 | 데이터·AI 커머스 성과와 데스크톱 AI 소셜 광고 통합이 디지털 퍼널을 혁신한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-09-03/?kakao=20260903-ko-v1) | [Markdown](source/2026-09-03.md) |
 | 2026.09.02 | AI 검색 구조화와 검색-소셜 리타게팅이 이커머스 전환 성과를 완성한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-09-02/?kakao=20260902-ko-v1) | [Markdown](source/2026-09-02.md) |
 | 2026.09.01 | AI 에이전트 쇼핑 기여도 기준과 GEO 브랜드 최적화가 퍼널을 재정의한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-09-01/?kakao=20260901-ko-v1) | [Markdown](source/2026-09-01.md) |
 | 2026.08.31 | AI 에이전트 유입 GEO와 숏폼 데이터 커머스가 마케팅 성과를 혁신한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-31/?kakao=20260831-ko-v1) | [Markdown](source/2026-08-31.md) |
