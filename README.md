@@ -11,6 +11,7 @@ Addit Daily Marketing Brief 정적 웹 아카이브입니다.
 
 | 발행일 | 브리핑 제목 | 웹 뉴스레터 | 원문 |
 |---|---|---|---|
+| 2026.09.14 | 자산 연동형 숏폼과 계층형 KPI 벤토 카루셀이 전환과 아카이빙을 완성한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-09-14/?kakao=20260914-ko-v1) | [Markdown](source/2026-09-14.md) |
 | 2026.09.10 | 회원 혜택과 복수 상담 경로가 광고 전환을 완성한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-09-10/?kakao=20260910-ko-v1) | [Markdown](source/2026-09-10.md) |
 | 2026.09.08 | 비연출 숏폼 상황극과 유튜브 AEO가 실질 커머스 전환과 오가닉 버즈를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-09-08/?kakao=20260908-ko-v1) | [Markdown](source/2026-09-08.md) |
 | 2026.09.03 | 데이터·AI 커머스 성과와 데스크톱 AI 소셜 광고 통합이 디지털 퍼널을 혁신한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-09-03/?kakao=20260903-ko-v1) | [Markdown](source/2026-09-03.md) |
