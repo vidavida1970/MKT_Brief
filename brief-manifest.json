@@ -1,15 +1,15 @@
 {
-  "date":"2026-10-07",
-  "title":"AI를 도입한 뒤, 이제는 비용·책임·사생활을 설계한다",
-  "html":"archive/2026-10-07/index.html",
-  "published_url":"https://vidavida1970.github.io/MKT_Brief/archive/2026-10-07/index.html",
-  "og_image_path":"assets/og-2026-10-07-v1.png",
-  "og_image_url":"https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-07-v1.png",
-  "cases":[
-    {"name":"삼성전자 Galaxy Buds On","region":"KR","source_url":"https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%ec%b5%9c%ec%b4%88-%ed%81%b4%eb%a6%bd%ed%98%95-%eb%ac%b4%ec%84%a0-%ec%9d%b4%ec%96%b4%ed%8f%b0-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%eb%b2%84","image_source_url":"https://img.kr.news.samsung.com/kr/wp-content/uploads/2026/09/30153522/Samsung_Galaxy_Buds_On_KV.jpg","image_local_path":"assets/case/2026-10-07/samsung-buds-on.jpg"},
-    {"name":"NAVER 1784","region":"KR","source_url":"https://1784.navercorp.com/en/","image_source_url":"https://1784.navercorp.com/assets/img/tech/tech-main-1.jpg","image_local_path":"assets/case/2026-10-07/naver-1784.jpg"},
-    {"name":"NAVER 데이터센터 각 세종","region":"KR","source_url":"https://datacenter.navercorp.com/gaksejong/","image_source_url":"https://static-homepage.pstatic.net/cdn-static/datacenter/micro/bg-content.jpg","image_local_path":"assets/case/2026-10-07/naver-gak.jpg"},
-    {"name":"Microsoft·Meta Claude","region":"GLOBAL","source_url":"https://www.aitimes.com/news/articleView.html?idxno=215998","image_source_url":"https://cdn.aitimes.com/news/photo/202610/215998_219983_07.jpg","image_local_path":"assets/case/2026-10-07/ms-meta-claude.jpg"},
-    {"name":"Norway AI 안경 규제 추진","region":"GLOBAL","source_url":"https://www.aitimes.com/news/articleView.html?idxno=215999","image_source_url":"https://cdn.aitimes.com/news/photo/202610/215999_219985_2638.jpg","image_local_path":"assets/case/2026-10-07/norway-ai-glasses.jpg"}
+  "date": "2026-10-08",
+  "title": "AI는 성능보다 비용·데이터·보안에서 승부가 난다",
+  "html": "archive/2026-10-08/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-08/index.html",
+  "og_image_path": "assets/og-2026-10-08-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-08-v1.png",
+  "cases": [
+    {"name": "한국은행 BOKI", "region": "KR", "source_url": "https://www.hankookilbo.com/news/article/A2026100714410001918", "image_source_url": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/10/07/6d0e1b62-4571-46de-bebe-3d963e926aad.jpg", "image_local_path": "assets/case/2026-10-08/boki.jpg"},
+    {"name": "로그프레소 ChatGPT Enterprise 감사 연동", "region": "KR", "source_url": "https://www.boannews.com/news/articleView.html?idxno=146239", "image_source_url": "https://cdn.boannews.com/news/photo/202610/146239_128643_628.jpg", "image_local_path": "assets/case/2026-10-08/logpresso.jpg"},
+    {"name": "진천군 청년 AI 구독료 지원", "region": "KR", "source_url": "https://www.news1.kr/local/sejong-chungbuk/6312263", "image_source_url": "https://i3n.news1.kr/system/photos/2026/10/7/8145833/high.jpg", "image_local_path": "assets/case/2026-10-08/jincheon.jpg"},
+    {"name": "AI 레디 데이터", "region": "KR", "source_url": "https://www.chosun.com/economy/tech_it/2026/10/06/6GREJZPCXRAQJN7VC6I6PPLOLY/", "image_source_url": "https://www.chosun.com/resizer/v2/MCOIA2T4DJEUXO62YXW2VNTEWE.png?auth=42dc933984dd9c9af691500c9f848360e17e40176c7b9343c81dacdd3925c791&width=616", "image_local_path": "assets/case/2026-10-08/ai-ready.png"},
+    {"name": "Anthropic Claude Haiku 5.5", "region": "GLOBAL", "source_url": "https://www.unite.ai/ko/anthropic-releases-claude-haiku-5-5-cutting-small-model-api-prices/", "image_source_url": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-releases-claude-haiku-5-5-cutting-small-model-api-prices.jpg", "image_local_path": "assets/case/2026-10-08/haiku.jpg"}
   ]
 }

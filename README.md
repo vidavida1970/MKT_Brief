@@ -1,59 +1,9 @@
-# MKT_Brief
+# Addit Daily Marketing Brief
 
-Addit Daily Marketing Brief 정적 웹 아카이브입니다.
+- Latest: `2026-10-08`
+- Newsletter: `archive/2026-10-08/index.html`
+- Source: `source/2026-10-08.md`
+- Kakao OG: `assets/og-2026-10-08-v1.png`
+- Vertical share image: `assets/brief-2026-10-08-1080x1920.png`
 
-- 최신호: [GitHub Pages에서 보기](https://vidavida1970.github.io/MKT_Brief/)
-- 날짜별 웹 목록: [아카이브 페이지](https://vidavida1970.github.io/MKT_Brief/archive/)
-- 날짜별 보관본: `archive/YYYY-MM-DD/index.html`
-- 원문 Markdown: `source/YYYY-MM-DD.md`
-
-## 날짜별 발행 목록
-
-| 발행일 | 브리핑 제목 | 웹 뉴스레터 | 원문 |
-|---|---|---|---|
-| 2026.10.07 | AI를 도입한 뒤, 이제는 비용·책임·사생활을 설계한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-10-07/?kakao=20261007-ko-v1) | [Markdown](source/2026-10-07.md) |
-| 2026.10.06 | '검색'에서 '위임'으로의 진화와 가상 착용 커머스가 전환을 완성한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-10-06/?kakao=20261006-ko-v1) | [Markdown](source/2026-10-06.md) |
-| 2026.09.21 | 비팔로워 알고리즘 탐색과 마이크로 UGC가 전환을 완성한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-09-21/?kakao=20260921-ko-v1) | [Markdown](source/2026-09-21.md) |
-| 2026.09.14 | 자산 연동형 숏폼과 계층형 KPI 벤토 카루셀이 전환과 아카이빙을 완성한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-09-14/?kakao=20260914-ko-v1) | [Markdown](source/2026-09-14.md) |
-| 2026.09.10 | 회원 혜택과 복수 상담 경로가 광고 전환을 완성한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-09-10/?kakao=20260910-ko-v1) | [Markdown](source/2026-09-10.md) |
-| 2026.09.08 | 비연출 숏폼 상황극과 유튜브 AEO가 실질 커머스 전환과 오가닉 버즈를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-09-08/?kakao=20260908-ko-v1) | [Markdown](source/2026-09-08.md) |
-| 2026.09.03 | 데이터·AI 커머스 성과와 데스크톱 AI 소셜 광고 통합이 디지털 퍼널을 혁신한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-09-03/?kakao=20260903-ko-v1) | [Markdown](source/2026-09-03.md) |
-| 2026.09.02 | AI 검색 구조화와 검색-소셜 리타게팅이 이커머스 전환 성과를 완성한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-09-02/?kakao=20260902-ko-v1) | [Markdown](source/2026-09-02.md) |
-| 2026.09.01 | AI 에이전트 쇼핑 기여도 기준과 GEO 브랜드 최적화가 퍼널을 재정의한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-09-01/?kakao=20260901-ko-v1) | [Markdown](source/2026-09-01.md) |
-| 2026.08.31 | AI 에이전트 유입 GEO와 숏폼 데이터 커머스가 마케팅 성과를 혁신한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-31/?kakao=20260831-ko-v1) | [Markdown](source/2026-08-31.md) |
-| 2026.08.28 | AI 오토메이션과 GEO 검색 최적화가 마케팅 성과 경로를 확장한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-28/?kakao=20260828-ko-v1) | [Markdown](source/2026-08-28.md) |
-| 2026.08.27 | AI 운영 에이전트와 B2B 풀퍼널이 참여와 전환의 새로운 기준을 세운다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-27/?kakao=20260827-ko-v1) | [Markdown](source/2026-08-27.md) |
-| 2026.08.26 | 숏폼 정보태그와 B2B 리더십 광고가 발견에서 직접 전환으로 이끈다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-26/?kakao=20260826-ko-v1) | [Markdown](source/2026-08-26.md) |
-| 2026.08.25 | AI 크리에이티브 파이프라인과 맥락 마케팅이 오프라인 전환과 브랜드 성장을 견인한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-25/?kakao=20260825-ko-v1) | [Markdown](source/2026-08-25.md) |
-| 2026.08.24 | 피지털 브랜딩과 AI 엔터프라이즈가 마케팅의 새로운 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-24/?kakao=20260824-ko-v1) | [Markdown](source/2026-08-24.md) |
-| 2026.08.23 | AI 퍼스널라이제이션과 옴니채널 숏폼이 소셜과 오프라인 전환을 완성시킨다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-23/?kakao=20260823-ko-v1) | [Markdown](source/2026-08-23.md) |
-| 2026.08.21 | 크리에이터 미디어화와 AI 커머스 자동화가 마케팅 성과를 직접 전환시킨다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-21/?kakao=20260821-ko-v1) | [Markdown](source/2026-08-21.md) |
-| 2026.08.20 | 숏폼 마케팅은 단순 노출보다 '데이터 미션·옴니채널·6초 VTR'이 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-20/?kakao=20260820-ko-v1) | [Markdown](source/2026-08-20.md) |
-| 2026.08.19 | 소셜 퍼포먼스는 단순 노출보다 '서사형 숏폼·인앱 쇼핑·AI'가 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-19/?kakao=20260819-ko-v1) | [Markdown](source/2026-08-19.md) |
-| 2026.08.18 | 성과형 마케팅은 소재 수보다 '퍼널 이벤트·크리에이터 인프라·AI'가 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-18/?kakao=20260818-ko-v1) | [Markdown](source/2026-08-18.md) |
-| 2026.08.14 | 숏폼 캠페인은 파편화된 노출보다 '풀퍼널·크리에이터 공급망·AI'가 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-14/?kakao=20260814-ko-v1) | [Markdown](source/2026-08-14.md) |
-| 2026.08.13 | 숏폼 커머스는 조회수보다 '크리에이터 + 틱톡샵 + 데이터' 연결이 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-13/?kakao=20260813-ko-v1) | [Markdown](source/2026-08-13.md) |
-| 2026.08.12 | 8월 캠페인은 할인이 아니라 날짜·미션·주의 품질로 설계한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-12/?kakao=20260812-ko-v1) | [Markdown](source/2026-08-12.md) |
-| 2026.08.11 | 성과 캠페인은 소재가 아니라 데이터·참여 구조에서 갈린다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-11/?kakao=20260811-ko-v1) | [Markdown](source/2026-08-11.md) |
-| 2026.08.10 | 성과는 한 채널의 바이럴이 아니라 역할 분담과 신호 설계에서 나온다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-10/?kakao=20260810-ko-v1) | [Markdown](source/2026-08-10.md) |
-| 2026.08.06 | 브랜드가 만든 광고보다 사람들이 퍼뜨리는 장면이 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-06/?kakao=20260806-ko-v1) | [Markdown](source/2026-08-06.md) |
-| 2026.08.05 | 추상적 메시지일수록 ‘인물·문맥·행동’이 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-05/?kakao=20260805-ko-v1) | [Markdown](source/2026-08-05.md) |
-| 2026.08.04 | 광고는 ‘무엇을 보여줄지’보다 ‘언제 연결할지’가 성과를 만든다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-04/?kakao=20260804-ko-v1) | [Markdown](source/2026-08-04.md) |
-| 2026.08.03 | 반응은 콘텐츠를 넘어 ‘다음 행동’으로 완성된다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-08-03/?kakao=20260803-ko-v1) | [Markdown](source/2026-08-03.md) |
-| 2026.07.31 | 관심은 ‘보는 순간’이 아니라 ‘참여하는 경로’에서 전환된다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-31/?kakao=20260731-ko-v1) | [Markdown](source/2026-07-31.md) |
-| 2026.07.30 | 광고는 ‘노출’보다 연결 구조에서 완성된다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-30/?kakao=20260730-ko-v1) | [Markdown](source/2026-07-30.md) |
-| 2026.07.29 | 팬덤·신뢰·구매 경로를 하나의 행동으로 연결하다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-29/?kakao=20260729-ko-v1) | [Markdown](source/2026-07-29.md) |
-| 2026.07.28 | 관심을 행동으로 바꾸는 브랜드 설계 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-28/?kakao=20260728-ko-v1) | [Markdown](source/2026-07-28.md) |
-| 2026.07.27 | 광고는 ‘발견과 전환’에서 완성된다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-27/?kakao=20260727-ko-v1) | [Markdown](source/2026-07-27.md) |
-| 2026.07.24 | 답변·대화·문화가 구매를 움직인다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-07-24/?kakao=20260724-ko-v1) | [Markdown](source/2026-07-24.md) |
-
-## 매일 갱신 규칙
-
-1. 새 날짜의 HTML과 원문을 추가합니다.
-2. 웹·저장소 날짜별 목록을 최신순으로 갱신합니다.
-3. 당일 브리프 제목을 넣은 1200×630 PNG를 적용합니다.
-4. 날짜별 HTML에 OG 메타데이터와 Twitter Card를 설정합니다.
-5. 공개 주소에서 OG 이미지가 200 응답·1200×630 PNG로 확인되는지 검증합니다.
-6. 카카오톡 공유 주소에는 `?kakao=YYYYMMDD-ko-vN`을 붙입니다.
-7. CASE STUDY는 원문 URL·대표 이미지 URL을 같은 출처 페이지에서 재확인합니다.
-8. 사례 구성은 누적 국내 70%·국외 30%를 기준으로 관리합니다.
+The 2026-10-08 edition contains five source-linked case studies: four Korean and one global. Each case stores a local representative image plus the original image URL in `PROVENANCE.md`.
