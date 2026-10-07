@@ -1,0 +1,15 @@
+{
+  "date":"2026-10-07",
+  "title":"AI를 도입한 뒤, 이제는 비용·책임·사생활을 설계한다",
+  "html":"archive/2026-10-07/index.html",
+  "published_url":"https://vidavida1970.github.io/MKT_Brief/archive/2026-10-07/index.html",
+  "og_image_path":"assets/og-2026-10-07-v1.png",
+  "og_image_url":"https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-07-v1.png",
+  "cases":[
+    {"name":"삼성전자 Galaxy Buds On","region":"KR","source_url":"https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%ec%b5%9c%ec%b4%88-%ed%81%b4%eb%a6%bd%ed%98%95-%eb%ac%b4%ec%84%a0-%ec%9d%b4%ec%96%b4%ed%8f%b0-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%eb%b2%84","image_source_url":"https://img.kr.news.samsung.com/kr/wp-content/uploads/2026/09/30153522/Samsung_Galaxy_Buds_On_KV.jpg","image_local_path":"assets/case/2026-10-07/samsung-buds-on.jpg"},
+    {"name":"NAVER 1784","region":"KR","source_url":"https://1784.navercorp.com/en/","image_source_url":"https://1784.navercorp.com/assets/img/tech/tech-main-1.jpg","image_local_path":"assets/case/2026-10-07/naver-1784.jpg"},
+    {"name":"NAVER 데이터센터 각 세종","region":"KR","source_url":"https://datacenter.navercorp.com/gaksejong/","image_source_url":"https://static-homepage.pstatic.net/cdn-static/datacenter/micro/bg-content.jpg","image_local_path":"assets/case/2026-10-07/naver-gak.jpg"},
+    {"name":"Microsoft·Meta Claude","region":"GLOBAL","source_url":"https://www.aitimes.com/news/articleView.html?idxno=215998","image_source_url":"https://cdn.aitimes.com/news/photo/202610/215998_219983_07.jpg","image_local_path":"assets/case/2026-10-07/ms-meta-claude.jpg"},
+    {"name":"Norway AI 안경 규제 추진","region":"GLOBAL","source_url":"https://www.aitimes.com/news/articleView.html?idxno=215999","image_source_url":"https://cdn.aitimes.com/news/photo/202610/215999_219985_2638.jpg","image_local_path":"assets/case/2026-10-07/norway-ai-glasses.jpg"}
+  ]
+}

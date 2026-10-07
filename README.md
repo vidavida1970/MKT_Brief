@@ -11,6 +11,7 @@ Addit Daily Marketing Brief 정적 웹 아카이브입니다.
 
 | 발행일 | 브리핑 제목 | 웹 뉴스레터 | 원문 |
 |---|---|---|---|
+| 2026.10.07 | AI를 도입한 뒤, 이제는 비용·책임·사생활을 설계한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-10-07/?kakao=20261007-ko-v1) | [Markdown](source/2026-10-07.md) |
 | 2026.10.06 | '검색'에서 '위임'으로의 진화와 가상 착용 커머스가 전환을 완성한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-10-06/?kakao=20261006-ko-v1) | [Markdown](source/2026-10-06.md) |
 | 2026.09.21 | 비팔로워 알고리즘 탐색과 마이크로 UGC가 전환을 완성한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-09-21/?kakao=20260921-ko-v1) | [Markdown](source/2026-09-21.md) |
 | 2026.09.14 | 자산 연동형 숏폼과 계층형 KPI 벤토 카루셀이 전환과 아카이빙을 완성한다 | [보기](https://vidavida1970.github.io/MKT_Brief/archive/2026-09-14/?kakao=20260914-ko-v1) | [Markdown](source/2026-09-14.md) |
