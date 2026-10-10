@@ -1,15 +1,16 @@
 {
-  "date": "2026-10-09",
-  "title": "AI가 만드는 결과물보다, 작동 조건을 먼저 설계한다",
-  "html": "archive/2026-10-09/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-09/index.html",
-  "og_image_path": "assets/og-2026-10-09-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-09-v1.png",
+  "date": "2026-10-10",
+  "title": "AI의 성과보다 먼저, 검증·안전·공개를 설계한다",
+  "html": "archive/2026-10-10/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-10/index.html",
+  "og_image_path": "assets/og-2026-10-10-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-10-v1.png",
+  "source_url": "https://baeksang.dev/daily/2026-10-10",
   "cases": [
-    {"name": "SK텔레콤·업스테이지 AI 사이버보안 협의체", "region": "KR", "source_url": "https://www.aitimes.com/news/articleView.html?idxno=216069", "image_source_url": "https://cdn.aitimes.com/news/photo/202610/216069_220050_5641.jpg", "image_local_path": "assets/case/2026-10-09/skt-ai-security.jpg"},
-    {"name": "모빌린트 누리호 탑재 에지 AI 반도체", "region": "KR", "source_url": "https://www.etnews.com/20261008000189", "image_source_url": "https://img.etnews.com/news/article/2026/10/08/news-p.v1.20261008.fd189c3eb51f47f7a1a6d8076334edf3_P2.png", "image_local_path": "assets/case/2026-10-09/mobilint-satellite.png"},
-    {"name": "엘리스그룹 모듈형 AI 데이터센터 PMDC", "region": "KR", "source_url": "https://www.etnews.com/20261008000273", "image_source_url": "https://img.etnews.com/news/article/2026/10/08/news-p.v1.20261008.9e674616b95f469a9297df04d9f42e9d_P1.jpg", "image_local_path": "assets/case/2026-10-09/ellis-pmdc.jpg"},
-    {"name": "Google Playground", "region": "GLOBAL", "source_url": "https://the-decoder.com/google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature/", "image_source_url": "https://the-decoder.com/wp-content/uploads/2026/10/google_playground-1200x670.png", "image_local_path": "assets/case/2026-10-09/google-playground.png"},
-    {"name": "Common Sense Media ChatGPT for Teens 안전성 평가", "region": "GLOBAL", "source_url": "https://www.commonsensemedia.org/articles/chatgpt-claims-to-have-a-safety-net-for-teens-we-watched-it-fail", "image_source_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_16_9_xlarge/public/blog/article_riskassessment_chatgptteens-1.jpg", "image_local_path": "assets/case/2026-10-09/chatgpt-teens.jpg"}
+    {"name": "AISI AI 모델 안전성 평가 공개", "region": "KR", "source_url": "https://zdnet.co.kr/view/?no=20260619100049", "image_source_url": "https://image.zdnet.co.kr/2026/06/19/f980f1e06cc922febd07e51548cf132d.png", "image_local_path": "assets/case/2026-10-10/aisi-evaluation.png"},
+    {"name": "국가 AI 안전 종합계획", "region": "KR", "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148972829", "image_source_url": "https://www.korea.kr/newsWeb/resources/attaches/2026.09/30/21322279(1).jpg", "image_local_path": "assets/case/2026-10-10/national-ai-safety-plan.jpg"},
+    {"name": "국가 AI 데이터센터·에이전트 전략", "region": "KR", "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968284", "image_source_url": "https://www.korea.kr/newsWeb/resources/attaches/2026.07/16/sdfasfdasfd.jpg", "image_local_path": "assets/case/2026-10-10/ai-datacenter-policy.jpg"},
+    {"name": "AI Co-Scientist", "region": "KR", "source_url": "https://dataon.kisti.re.kr/news/newsView_R.do?newsSn=288", "image_source_url": "https://dataon.kisti.re.kr/news/newsView_R.do?newsSn=288", "image_local_path": "assets/case/2026-10-10/dataon-ai-coscientist-1.jpg"},
+    {"name": "OpenAI AI 생성 수학 원고 논란", "region": "GLOBAL", "source_url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/", "image_source_url": "https://the-decoder.com/wp-content/uploads/2026/10/openai_mathematics_controversy.png", "image_local_path": "assets/case/2026-10-10/openai-math-controversy.png"}
   ]
 }
