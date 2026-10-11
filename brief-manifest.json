@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-10",
-  "title": "AI의 성과보다 먼저, 검증·안전·공개를 설계한다",
-  "html": "archive/2026-10-10/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-10/index.html",
-  "og_image_path": "assets/og-2026-10-10-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-10-v1.png",
-  "source_url": "https://baeksang.dev/daily/2026-10-10",
+  "date": "2026-10-12",
+  "title": "AI가 대신 움직일수록, 멈출 권한을 먼저 설계한다",
+  "html": "archive/2026-10-12/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-12/index.html",
+  "og_image_path": "assets/og-2026-10-12-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-12-v1.png",
+  "source_url": "https://www.yonhapnewstv.co.kr/news/AKR20261011095926Fzw",
   "cases": [
-    {"name": "AISI AI 모델 안전성 평가 공개", "region": "KR", "source_url": "https://zdnet.co.kr/view/?no=20260619100049", "image_source_url": "https://image.zdnet.co.kr/2026/06/19/f980f1e06cc922febd07e51548cf132d.png", "image_local_path": "assets/case/2026-10-10/aisi-evaluation.png"},
-    {"name": "국가 AI 안전 종합계획", "region": "KR", "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148972829", "image_source_url": "https://www.korea.kr/newsWeb/resources/attaches/2026.09/30/21322279(1).jpg", "image_local_path": "assets/case/2026-10-10/national-ai-safety-plan.jpg"},
-    {"name": "국가 AI 데이터센터·에이전트 전략", "region": "KR", "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968284", "image_source_url": "https://www.korea.kr/newsWeb/resources/attaches/2026.07/16/sdfasfdasfd.jpg", "image_local_path": "assets/case/2026-10-10/ai-datacenter-policy.jpg"},
-    {"name": "AI Co-Scientist", "region": "KR", "source_url": "https://dataon.kisti.re.kr/news/newsView_R.do?newsSn=288", "image_source_url": "https://dataon.kisti.re.kr/news/newsView_R.do?newsSn=288", "image_local_path": "assets/case/2026-10-10/dataon-ai-coscientist-1.jpg"},
-    {"name": "OpenAI AI 생성 수학 원고 논란", "region": "GLOBAL", "source_url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/", "image_source_url": "https://the-decoder.com/wp-content/uploads/2026/10/openai_mathematics_controversy.png", "image_local_path": "assets/case/2026-10-10/openai-math-controversy.png"}
+    {"name": "금융보안원 AI 공격 경고·외부 자산 점검", "region": "KR", "source_url": "https://www.yonhapnewstv.co.kr/news/AKR20261011095926Fzw", "image_source_url": "https://media.yonhapnewstv.co.kr/article/AKR/20261011/AKR20261011095926Fzw_01_i.jpg", "image_local_path": "assets/case/2026-10-12/finance-ai-attack.jpg"},
+    {"name": "NHN테코라스 Claude 종합 지원 서비스", "region": "KR", "source_url": "https://www.theguru.co.kr/mobile/article.html?no=108063", "image_source_url": "https://www.theguru.co.kr/data/photos/20261041/art_17914425826277_4224d3.jpg", "image_local_path": "assets/case/2026-10-12/nhn-claude-ax.jpg"},
+    {"name": "BC카드 ChatGPT 연계 쇼핑 서비스", "region": "KR", "source_url": "https://www.newsis.com/view/NISX20261008_0003819713", "image_source_url": "https://img1.newsis.com/2025/06/27/NISI20250627_0001878319_web.jpg", "image_local_path": "assets/case/2026-10-12/bc-chatgpt-shopping.jpg"},
+    {"name": "Anthropic Claude 외부 웹사이트 오작동", "region": "GLOBAL", "source_url": "https://apnews.com/article/0acc6ac46d4d80db805e8d55468a6fe1", "image_source_url": "https://dims.apnews.com/dims4/default/0654130/2147483647/strip/true/crop/5000x3332+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff3%2Fc6%2Fba42a3bb066f05adab240005d964%2F8f374553ba894aaf9a18256af08de674", "image_local_path": "assets/case/2026-10-12/anthropic-claude-incident.jpg"},
+    {"name": "OpenAI ChatGPT 시각 광고", "region": "GLOBAL", "source_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement/", "image_source_url": "https://images.ctfassets.net/kftzwdyauwt9/rK0Bn1sDSa03vTiJvEqEk/e693b91273247f332181de385845fa52/building-advertising-for-the-way-people-use-ai-social.png?w=1600&h=900&fit=fill", "image_local_path": "assets/case/2026-10-12/chatgpt-visual-ads.png"}
   ]
 }
