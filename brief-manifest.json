@@ -1,16 +1,15 @@
 {
-  "date": "2026-10-12",
-  "title": "AI가 대신 움직일수록, 멈출 권한을 먼저 설계한다",
-  "html": "archive/2026-10-12/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-12/index.html",
-  "og_image_path": "assets/og-2026-10-12-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-12-v1.png",
-  "source_url": "https://www.yonhapnewstv.co.kr/news/AKR20261011095926Fzw",
+  "date": "2026-10-13",
+  "title": "AI를 쓰는 사람보다, AI가 일하는 구조를 설계한 팀이 앞선다",
+  "html": "archive/2026-10-13/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-13/index.html",
+  "og_image_path": "assets/og-2026-10-13-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-13-v1.png",
   "cases": [
-    {"name": "금융보안원 AI 공격 경고·외부 자산 점검", "region": "KR", "source_url": "https://www.yonhapnewstv.co.kr/news/AKR20261011095926Fzw", "image_source_url": "https://media.yonhapnewstv.co.kr/article/AKR/20261011/AKR20261011095926Fzw_01_i.jpg", "image_local_path": "assets/case/2026-10-12/finance-ai-attack.jpg"},
-    {"name": "NHN테코라스 Claude 종합 지원 서비스", "region": "KR", "source_url": "https://www.theguru.co.kr/mobile/article.html?no=108063", "image_source_url": "https://www.theguru.co.kr/data/photos/20261041/art_17914425826277_4224d3.jpg", "image_local_path": "assets/case/2026-10-12/nhn-claude-ax.jpg"},
-    {"name": "BC카드 ChatGPT 연계 쇼핑 서비스", "region": "KR", "source_url": "https://www.newsis.com/view/NISX20261008_0003819713", "image_source_url": "https://img1.newsis.com/2025/06/27/NISI20250627_0001878319_web.jpg", "image_local_path": "assets/case/2026-10-12/bc-chatgpt-shopping.jpg"},
-    {"name": "Anthropic Claude 외부 웹사이트 오작동", "region": "GLOBAL", "source_url": "https://apnews.com/article/0acc6ac46d4d80db805e8d55468a6fe1", "image_source_url": "https://dims.apnews.com/dims4/default/0654130/2147483647/strip/true/crop/5000x3332+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff3%2Fc6%2Fba42a3bb066f05adab240005d964%2F8f374553ba894aaf9a18256af08de674", "image_local_path": "assets/case/2026-10-12/anthropic-claude-incident.jpg"},
-    {"name": "OpenAI ChatGPT 시각 광고", "region": "GLOBAL", "source_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement/", "image_source_url": "https://images.ctfassets.net/kftzwdyauwt9/rK0Bn1sDSa03vTiJvEqEk/e693b91273247f332181de385845fa52/building-advertising-for-the-way-people-use-ai-social.png?w=1600&h=900&fit=fill", "image_local_path": "assets/case/2026-10-12/chatgpt-visual-ads.png"}
+    {"name":"한국 채용시장","region":"KR","source_url":"https://www.hankyung.com/article/2026101251567","image_source_url":"https://img.hankyung.com/photo/202610/99.15787258.1.jpg","image_local_path":"assets/case/2026-10-13/hiring-ai.jpg"},
+    {"name":"KISTI 아폴로","region":"KR","source_url":"https://www.unicornfactory.co.kr/article/2026101208100559932","image_source_url":"https://thumb.mt.co.kr/21/2026/10/2026101208100559932_1.jpg?1791835237","image_local_path":"assets/case/2026-10-13/apollo.jpg"},
+    {"name":"삼성전자·SK하이닉스 로봇 메모리","region":"KR","source_url":"https://kr.investing.com/news/stock-market-news/article-2122795","image_source_url":"https://content-media.investing.com/news/LYNXMPEB1A16P_L.jpg","image_local_path":"assets/case/2026-10-13/robot-memory.jpg"},
+    {"name":"Anthropic Claude 취약점","region":"GLOBAL","source_url":"https://it.chosun.com/news/articleViewAmp.html?idxno=2023092171819","image_source_url":"https://cdn.it.chosun.com/news/photo/202610/2023092171819_454512_198.png","image_local_path":"assets/case/2026-10-13/claude-vuln.jpg"},
+    {"name":"Google Gemini Agent","region":"GLOBAL","source_url":"https://startuprecipe.co.kr/archives/tech/5836847","image_source_url":"https://i0.wp.com/startuprecipe.co.kr/wp-content/uploads/2026/10/261011_Gemini-at-Work-2026_000003.png?fit=1200%2C675&ssl=1","image_local_path":"assets/case/2026-10-13/gemini-agent.png"}
   ]
 }
