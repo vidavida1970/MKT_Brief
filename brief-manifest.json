@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-13",
-  "title": "AI를 쓰는 사람보다, AI가 일하는 구조를 설계한 팀이 앞선다",
-  "html": "archive/2026-10-13/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-13/index.html",
-  "og_image_path": "assets/og-2026-10-13-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-13-v1.png",
+  "date": "2026-10-14",
+  "title": "AI가 넓게 연결될수록, 경계와 신뢰를 먼저 설계한다",
+  "html": "archive/2026-10-14/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-14/index.html?kakao=20261014-ko-v1",
+  "og_image_path": "assets/og-2026-10-14-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-14-v1.png",
   "cases": [
-    {"name":"한국 채용시장","region":"KR","source_url":"https://www.hankyung.com/article/2026101251567","image_source_url":"https://img.hankyung.com/photo/202610/99.15787258.1.jpg","image_local_path":"assets/case/2026-10-13/hiring-ai.jpg"},
-    {"name":"KISTI 아폴로","region":"KR","source_url":"https://www.unicornfactory.co.kr/article/2026101208100559932","image_source_url":"https://thumb.mt.co.kr/21/2026/10/2026101208100559932_1.jpg?1791835237","image_local_path":"assets/case/2026-10-13/apollo.jpg"},
-    {"name":"삼성전자·SK하이닉스 로봇 메모리","region":"KR","source_url":"https://kr.investing.com/news/stock-market-news/article-2122795","image_source_url":"https://content-media.investing.com/news/LYNXMPEB1A16P_L.jpg","image_local_path":"assets/case/2026-10-13/robot-memory.jpg"},
-    {"name":"Anthropic Claude 취약점","region":"GLOBAL","source_url":"https://it.chosun.com/news/articleViewAmp.html?idxno=2023092171819","image_source_url":"https://cdn.it.chosun.com/news/photo/202610/2023092171819_454512_198.png","image_local_path":"assets/case/2026-10-13/claude-vuln.jpg"},
-    {"name":"Google Gemini Agent","region":"GLOBAL","source_url":"https://startuprecipe.co.kr/archives/tech/5836847","image_source_url":"https://i0.wp.com/startuprecipe.co.kr/wp-content/uploads/2026/10/261011_Gemini-at-Work-2026_000003.png?fit=1200%2C675&ssl=1","image_local_path":"assets/case/2026-10-13/gemini-agent.png"}
+    {"name":"LG CNS × Claude","region":"KR","source_url":"https://www.hankyung.com/article/202610138149i","image_source_url":"https://img.hankyung.com/photo/202610/01.46032080.1.jpg","image_local_path":"assets/case/2026-10-14/lgcns-claude.jpg"},
+    {"name":"식약처 임상시험 자료","region":"KR","source_url":"https://www.yna.co.kr/amp/view/AKR20261013161800017","image_source_url":"https://img8.yna.co.kr/photo/yna/YH/2026/10/13/PYH2026101309200001300_P4.jpg","image_local_path":"assets/case/2026-10-14/mfds-data-leak.jpg"},
+    {"name":"한국 ChatGPT 시장","region":"KR","source_url":"https://biz.chosun.com/it-science/ict/2026/10/13/J25NR5VVYBFZ3NGCXHHYXF6VOY/","image_source_url":"https://biz.chosun.com/resizer/v2/NPVX3ZCLSVFLJMFTSEKXJE34LU.png?auth=86191affa77f78d0aa9b6731cb0b842545d9538d1da415f320609f1732bfa3f8&width=1200&height=630&smart=true","image_local_path":"assets/case/2026-10-14/chatgpt-korea.png"},
+    {"name":"KT × Google AI","region":"KR","source_url":"https://www.thelec.net/news/articleView.html?idxno=14564","image_source_url":"https://cdn.thelec.net/news/photo/202610/14564_14843_850.jpg","image_local_path":"assets/case/2026-10-14/kt-gemini.jpg"},
+    {"name":"Google Gemini 4 Argon","region":"GLOBAL","source_url":"https://www.tokenpost.kr/news/breaking/422130","image_source_url":"https://f1.tokenpost.kr/2026/10/fxs1asxd1c.jpg","image_local_path":"assets/case/2026-10-14/gemini-argon.jpg"}
   ]
 }
