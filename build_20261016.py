@@ -30,7 +30,7 @@ cases = [
         'insight':'공공 AI의 신뢰는 답변 속도보다 근거와 업무 맥락을 함께 보여주는 데서 생긴다.',
         'source':'https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785285',
         'image_source':'https://www.korea.kr/common/download.do?fileId=198570310&tblKey=GMN',
-        'image':'forest-poster.jpg', 'alt':'산림청 임업직불제 업무용 AI 챗봇 서비스 공식 포스터',
+        'image':'forest-poster-v2.jpg', 'alt':'산림청 임업직불제 업무용 AI 챗봇 서비스 공식 포스터',
     },
     {
         'no':'03', 'region':'KR', 'name':'SKT AI-RAN 무인차 이송',
@@ -39,7 +39,7 @@ cases = [
         'insight':'피지컬 AI의 경쟁력은 모델보다 센서 데이터와 현장 제어 루프에 있다.',
         'source':'https://news.sktelecom.com/231994',
         'image_source':'https://news-static.sktelecom.com/wp-content/uploads/2026/10/SKT-%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C-SKT-Network-X-%EC%96%B4%EC%9B%8C%EB%93%9C-%EC%88%98%EC%83%81.-AI-%EA%B8%B0%EB%B0%98-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%88%A0%EB%A0%A5-%EC%9D%B8%EC%A0%95_1_FB_1200x628.jpg',
-        'image':'skt.jpg', 'alt':'SK텔레콤 AI-RAN 무인차 자율 이송 Network X 어워드 수상 현장',
+        'image':'skt-v2.jpg', 'alt':'SK텔레콤 AI-RAN 무인차 자율 이송 Network X 어워드 수상 현장',
     },
     {
         'no':'04', 'region':'KR', 'name':'팀스파르타 × Gemini Seoul',
@@ -170,7 +170,7 @@ def create_html():
 def main():
     CASE.mkdir(parents=True,exist_ok=True); (ROOT/'assets').mkdir(exist_ok=True)
     src=Path('/tmp/mkt16-sources/assets/processed')
-    for name in ('police-cover.png','forest-poster.jpg','skt.jpg','teamsparta.jpg','anthropic.png'):
+    for name in ('police-cover.png','forest-poster-v2.jpg','skt-v2.jpg','teamsparta.jpg','anthropic.png'):
         shutil.copy2(src/name,CASE/name)
     (ROOT/'source').mkdir(exist_ok=True); create_og(); create_vertical(); create_html()
 
