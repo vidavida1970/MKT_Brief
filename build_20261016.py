@@ -169,7 +169,7 @@ def create_html():
 
 def main():
     CASE.mkdir(parents=True,exist_ok=True); (ROOT/'assets').mkdir(exist_ok=True)
-    src=Path('/tmp/mkt16-sources/assets')
+    src=Path('/tmp/mkt16-sources/assets/processed')
     for name in ('police-cover.png','forest-poster.jpg','skt.jpg','teamsparta.jpg','anthropic.png'):
         shutil.copy2(src/name,CASE/name)
     (ROOT/'source').mkdir(exist_ok=True); create_og(); create_vertical(); create_html()
