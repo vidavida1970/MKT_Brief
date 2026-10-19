@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-19",
-  "title": "AI 도입의 다음 경쟁력은 성능이 아니라 경계 설계다",
-  "html": "archive/2026-10-19/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-19/index.html?kakao=20261019-ko-v1",
-  "og_image_path": "assets/og-2026-10-19-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-19-v1.png",
+  "date": "2026-10-20",
+  "title": "AI가 업무 안으로 들어올수록, 경계를 먼저 설계해야 한다",
+  "html": "archive/2026-10-20/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-20/index.html?kakao=20261020-ko-v1",
+  "og_image_path": "assets/og-2026-10-20-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-20-v1.png",
   "cases": [
     {
-      "name": "Anthropic × 한국어 책",
+      "name": "Logispot 물류 MCP",
       "region": "KR",
-      "source_url": "https://www.koreadaily.com/article/20261017215619609",
-      "image_source_url": "https://www.koreadaily.com/data/photo/2026/10/18/0a60c581-7e9e-450a-a400-5781348b8a69.jpg",
-      "image_local_path": "assets/case/2026-10-19/koreadaily.jpg"
+      "source_url": "https://www.hankyung.com/article/202610190038O",
+      "image_source_url": "https://img.hankyung.com/photo/202610/0D.46106372.1.jpg",
+      "image_local_path": "assets/case/2026-10-20/hankyung.jpg"
     },
     {
-      "name": "ChatGPT 닷 업무 대시보드",
+      "name": "BNK부산은행 AI 구독 카드",
       "region": "KR",
-      "source_url": "https://m.sedaily.com/article/20102735",
-      "image_source_url": "https://wimg.sedaily.com/news/cms/2026/10/16/news-p.v1.20261016.beac2560bd1a465dbfb5fd255ab98c31_P1.jpg",
-      "image_local_path": "assets/case/2026-10-19/sedaily.jpg"
+      "source_url": "https://www.pressian.com/pages/articles/2026101913185757204",
+      "image_source_url": "https://www.pressian.com/_resources/10/2026/10/19/2026101913182562597_l.jpg",
+      "image_local_path": "assets/case/2026-10-20/pressian.jpg"
     },
     {
-      "name": "2026 대한민국 AI 콘텐츠 어워즈",
+      "name": "울산과학대학교 AI 플랫폼",
       "region": "KR",
-      "source_url": "https://www.newsis.com/view/NISX20261016_0003828952",
-      "image_source_url": "https://img1.newsis.com/2026/10/16/NISI20261016_0002265838_web.jpg",
-      "image_local_path": "assets/case/2026-10-19/newsis.jpg"
+      "source_url": "https://ujnews.co.kr/news/newsview.php?ncode=1065592025120075",
+      "image_source_url": "https://ujnews.co.kr/news/data/20261019/p1065592025120075_302_thum.jpg",
+      "image_local_path": "assets/case/2026-10-20/ujnews.jpg"
     },
     {
-      "name": "Anthropic Claude 안전 보고서",
+      "name": "바이브 코딩 웹게임",
+      "region": "KR",
+      "source_url": "https://www.gamemeca.com/view.php?gid=1782007",
+      "image_source_url": "https://cdn.gamemeca.com/gmdata/0001/782/007/gm516237_vc.webp",
+      "image_local_path": "assets/case/2026-10-20/gamemeca.webp"
+    },
+    {
+      "name": "Adobe × ChatGPT",
       "region": "GLOBAL",
-      "source_url": "https://www.wikitree.co.kr/articles/1167207",
-      "image_source_url": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/19/202610190307473857_ai.jpeg",
-      "image_local_path": "assets/case/2026-10-19/wikitree.jpg"
-    },
-    {
-      "name": "Geely × Google Gemini",
-      "region": "GLOBAL",
-      "source_url": "https://speedme.ru/ko/posts/id84554-geely-and-google-bring-gemini-to-cars-in-2027-but-the-first-models-remain-a-mystery",
-      "image_source_url": "https://speedme.ru/uploads/en_materials/big/G5R2ayfbEITlpNmrbbz9.jpg",
-      "image_local_path": "assets/case/2026-10-19/speedme.jpg"
+      "source_url": "https://zdnet.co.kr/view/?no=20261019164024",
+      "image_source_url": "https://image.zdnet.co.kr/2026/10/19/7fc1d181fed441a7fdd19d9391abc154.jpg",
+      "image_local_path": "assets/case/2026-10-20/zdnet.jpg"
     }
   ]
 }
