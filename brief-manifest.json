@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-20",
-  "title": "AI가 업무 안으로 들어올수록, 경계를 먼저 설계해야 한다",
-  "html": "archive/2026-10-20/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-20/index.html?kakao=20261020-ko-v1",
-  "og_image_path": "assets/og-2026-10-20-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-20-v1.png",
+  "date": "2026-10-21",
+  "title": "AI가 확장될수록, 운영의 책임이 먼저 선명해져야 한다",
+  "html": "archive/2026-10-21/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-21/index.html?kakao=20261021-ko-v1",
+  "og_image_path": "assets/og-2026-10-21-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-21-v1.png",
   "cases": [
     {
-      "name": "Logispot 물류 MCP",
+      "name": "엘리스그룹 IPO",
       "region": "KR",
-      "source_url": "https://www.hankyung.com/article/202610190038O",
-      "image_source_url": "https://img.hankyung.com/photo/202610/0D.46106372.1.jpg",
-      "image_local_path": "assets/case/2026-10-20/hankyung.jpg"
+      "source_url": "https://www.yna.co.kr/view/AKR20261020038851008",
+      "image_source_url": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102003640001300_P4.jpg",
+      "image_local_path": "assets/case/2026-10-21/elice.jpg"
     },
     {
-      "name": "BNK부산은행 AI 구독 카드",
+      "name": "국내 AI 보안 위협 사례",
       "region": "KR",
-      "source_url": "https://www.pressian.com/pages/articles/2026101913185757204",
-      "image_source_url": "https://www.pressian.com/_resources/10/2026/10/19/2026101913182562597_l.jpg",
-      "image_local_path": "assets/case/2026-10-20/pressian.jpg"
+      "source_url": "https://www.joongang.co.kr/article/25470949",
+      "image_source_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/19/acb521e4-6e0a-471c-a6c4-f2ca77a3c651.jpg",
+      "image_local_path": "assets/case/2026-10-21/joongang.jpg"
     },
     {
-      "name": "울산과학대학교 AI 플랫폼",
+      "name": "리멤버 오피스워",
       "region": "KR",
-      "source_url": "https://ujnews.co.kr/news/newsview.php?ncode=1065592025120075",
-      "image_source_url": "https://ujnews.co.kr/news/data/20261019/p1065592025120075_302_thum.jpg",
-      "image_local_path": "assets/case/2026-10-20/ujnews.jpg"
+      "source_url": "https://www.hankyung.com/article/202610190982g",
+      "image_source_url": "https://img.hankyung.com/photo/202610/01.46110616.1.png",
+      "image_local_path": "assets/case/2026-10-21/career.jpg"
     },
     {
-      "name": "바이브 코딩 웹게임",
-      "region": "KR",
-      "source_url": "https://www.gamemeca.com/view.php?gid=1782007",
-      "image_source_url": "https://cdn.gamemeca.com/gmdata/0001/782/007/gm516237_vc.webp",
-      "image_local_path": "assets/case/2026-10-20/gamemeca.webp"
-    },
-    {
-      "name": "Adobe × ChatGPT",
+      "name": "OpenAI 40조원 투자유치",
       "region": "GLOBAL",
-      "source_url": "https://zdnet.co.kr/view/?no=20261019164024",
-      "image_source_url": "https://image.zdnet.co.kr/2026/10/19/7fc1d181fed441a7fdd19d9391abc154.jpg",
-      "image_local_path": "assets/case/2026-10-20/zdnet.jpg"
+      "source_url": "https://www.yna.co.kr/view/AKR20261020055000009",
+      "image_source_url": "https://img7.yna.co.kr/photo/reuters/2026/10/20/PRU20261020114401009_P4.jpg",
+      "image_local_path": "assets/case/2026-10-21/openai.jpg"
+    },
+    {
+      "name": "Cognizant × Google Gemini",
+      "region": "GLOBAL",
+      "source_url": "https://www.tokenpost.kr/news/ai/424511",
+      "image_source_url": "https://f1.tokenpost.kr/2026/10/hkruvogouz_th_1600x900.webp",
+      "image_local_path": "assets/case/2026-10-21/cognizant.webp"
     }
   ]
 }
