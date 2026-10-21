@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-21",
-  "title": "AI가 확장될수록, 운영의 책임이 먼저 선명해져야 한다",
-  "html": "archive/2026-10-21/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-21/index.html?kakao=20261021-ko-v1",
-  "og_image_path": "assets/og-2026-10-21-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-21-v1.png",
+  "date": "2026-10-22",
+  "title": "AI가 돈·권한·판단을 가질수록, 검증의 기준을 먼저 세운다",
+  "html": "archive/2026-10-22/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-22/index.html?kakao=20261022-ko-v1",
+  "og_image_path": "assets/og-2026-10-22-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-22-v1.png",
   "cases": [
     {
-      "name": "엘리스그룹 IPO",
+      "name": "한화문화재단 × Anthropic",
       "region": "KR",
-      "source_url": "https://www.yna.co.kr/view/AKR20261020038851008",
-      "image_source_url": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102003640001300_P4.jpg",
-      "image_local_path": "assets/case/2026-10-21/elice.jpg"
+      "source_url": "https://www.yna.co.kr/view/AKR20261021081200005",
+      "image_source_url": "https://img2.yna.co.kr/etc/inner/KR/2026/10/21/AKR20261021081200005_01_i_P4.jpg",
+      "image_local_path": "assets/case/2026-10-22/hanwha.jpg"
     },
     {
-      "name": "국내 AI 보안 위협 사례",
+      "name": "한국 기업 AI 도입 보고서",
       "region": "KR",
-      "source_url": "https://www.joongang.co.kr/article/25470949",
-      "image_source_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/19/acb521e4-6e0a-471c-a6c4-f2ca77a3c651.jpg",
-      "image_local_path": "assets/case/2026-10-21/joongang.jpg"
+      "source_url": "https://www.chosun.com/economy/economy_general/2026/10/21/CGYEI4UKLJBRDOGYV4RQICCW4I/",
+      "image_source_url": "https://www.chosun.com/resizer/v2/MWZEQW7HFZNG3BYM3NQLLJ65GY.JPG?auth=103973022ccd599b5faf52db007638f86bba8c3a8411dc2b108434e3b10ee7a2&width=1200&height=630&smart=true",
+      "image_local_path": "assets/case/2026-10-22/nber.jpg"
     },
     {
-      "name": "리멤버 오피스워",
+      "name": "공공 의사결정과 Gemini",
       "region": "KR",
-      "source_url": "https://www.hankyung.com/article/202610190982g",
-      "image_source_url": "https://img.hankyung.com/photo/202610/01.46110616.1.png",
-      "image_local_path": "assets/case/2026-10-21/career.jpg"
+      "source_url": "https://www.chosun.com/politics/politics_general/2026/10/21/X76U372SORA75CMI3ERAXIIDJM/",
+      "image_source_url": "https://www.chosun.com/resizer/v2/K3RRT4KWVJHSRPXDV46QW4ZI2M.jpg?auth=18f8dc88aafb2781cbcd8028e2f48ec2449dd8426be1008f21d084bc82b74880&width=1200&height=630&smart=true",
+      "image_local_path": "assets/case/2026-10-22/gemini-public.jpg"
     },
     {
-      "name": "OpenAI 40조원 투자유치",
+      "name": "한국 AI 투자 활동",
+      "region": "KR",
+      "source_url": "https://kr.investing.com/news/stock-market-news/article-2134538",
+      "image_source_url": "https://content-media.investing.com/news/InvestingcomLogo_800x533_L_1651832340.jpg",
+      "image_local_path": "assets/case/2026-10-22/investing.jpg"
+    },
+    {
+      "name": "OpenAI × Google Cloud",
       "region": "GLOBAL",
-      "source_url": "https://www.yna.co.kr/view/AKR20261020055000009",
-      "image_source_url": "https://img7.yna.co.kr/photo/reuters/2026/10/20/PRU20261020114401009_P4.jpg",
-      "image_local_path": "assets/case/2026-10-21/openai.jpg"
-    },
-    {
-      "name": "Cognizant × Google Gemini",
-      "region": "GLOBAL",
-      "source_url": "https://www.tokenpost.kr/news/ai/424511",
-      "image_source_url": "https://f1.tokenpost.kr/2026/10/hkruvogouz_th_1600x900.webp",
-      "image_local_path": "assets/case/2026-10-21/cognizant.webp"
+      "source_url": "https://www.yna.co.kr/view/AKR20261022003500091",
+      "image_source_url": "https://img3.yna.co.kr/photo/reuters/2026/10/21/PRU20261021300501009_P4.jpg",
+      "image_local_path": "assets/case/2026-10-22/openai-cloud.jpg"
     }
   ]
 }
