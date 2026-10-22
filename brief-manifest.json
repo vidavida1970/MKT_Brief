@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-22",
-  "title": "AI가 돈·권한·판단을 가질수록, 검증의 기준을 먼저 세운다",
-  "html": "archive/2026-10-22/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-22/index.html?kakao=20261022-ko-v1",
-  "og_image_path": "assets/og-2026-10-22-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-22-v1.png",
+  "date": "2026-10-23",
+  "title": "AI가 스스로 움직일수록, 권한과 복구 경로를 먼저 설계한다",
+  "html": "archive/2026-10-23/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-23/index.html?kakao=20261023-ko-v1",
+  "og_image_path": "assets/og-2026-10-23-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-23-v1.png",
   "cases": [
     {
-      "name": "한화문화재단 × Anthropic",
-      "region": "KR",
-      "source_url": "https://www.yna.co.kr/view/AKR20261021081200005",
-      "image_source_url": "https://img2.yna.co.kr/etc/inner/KR/2026/10/21/AKR20261021081200005_01_i_P4.jpg",
-      "image_local_path": "assets/case/2026-10-22/hanwha.jpg"
-    },
-    {
-      "name": "한국 기업 AI 도입 보고서",
-      "region": "KR",
-      "source_url": "https://www.chosun.com/economy/economy_general/2026/10/21/CGYEI4UKLJBRDOGYV4RQICCW4I/",
-      "image_source_url": "https://www.chosun.com/resizer/v2/MWZEQW7HFZNG3BYM3NQLLJ65GY.JPG?auth=103973022ccd599b5faf52db007638f86bba8c3a8411dc2b108434e3b10ee7a2&width=1200&height=630&smart=true",
-      "image_local_path": "assets/case/2026-10-22/nber.jpg"
-    },
-    {
-      "name": "공공 의사결정과 Gemini",
-      "region": "KR",
-      "source_url": "https://www.chosun.com/politics/politics_general/2026/10/21/X76U372SORA75CMI3ERAXIIDJM/",
-      "image_source_url": "https://www.chosun.com/resizer/v2/K3RRT4KWVJHSRPXDV46QW4ZI2M.jpg?auth=18f8dc88aafb2781cbcd8028e2f48ec2449dd8426be1008f21d084bc82b74880&width=1200&height=630&smart=true",
-      "image_local_path": "assets/case/2026-10-22/gemini-public.jpg"
-    },
-    {
-      "name": "한국 AI 투자 활동",
-      "region": "KR",
-      "source_url": "https://kr.investing.com/news/stock-market-news/article-2134538",
-      "image_source_url": "https://content-media.investing.com/news/InvestingcomLogo_800x533_L_1651832340.jpg",
-      "image_local_path": "assets/case/2026-10-22/investing.jpg"
+      "name": "Anthropic Claude Duet",
+      "region": "GLOBAL",
+      "source_url": "https://www.yna.co.kr/view/AKR20261023006600091",
+      "image_source_url": "https://img1.yna.co.kr/etc/inner/KR/2026/10/23/AKR20261023006600091_02_i_P4.jpg",
+      "image_local_path": "assets/case/2026-10-23/claude-duet.jpg"
     },
     {
       "name": "OpenAI × Google Cloud",
       "region": "GLOBAL",
-      "source_url": "https://www.yna.co.kr/view/AKR20261022003500091",
-      "image_source_url": "https://img3.yna.co.kr/photo/reuters/2026/10/21/PRU20261021300501009_P4.jpg",
-      "image_local_path": "assets/case/2026-10-22/openai-cloud.jpg"
+      "source_url": "https://cloud.google.com/blog/ko/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers",
+      "image_source_url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Open-ai-google-models-hero.max-2500x2500.png",
+      "image_local_path": "assets/case/2026-10-23/openai-cloud.png"
+    },
+    {
+      "name": "OpenAI DevDay Seoul",
+      "region": "KR",
+      "source_url": "https://www.hankookilbo.com/news/article/amp/A2026102216430003519",
+      "image_source_url": "https://newsimg.hankookilbo.com/2026/10/22/9c2b8329-a448-469a-81ba-46829e427ca5.jpg",
+      "image_local_path": "assets/case/2026-10-23/devday.jpg"
+    },
+    {
+      "name": "서울 AI 활용 역량",
+      "region": "KR",
+      "source_url": "https://www.aitimes.kr/news/articleView.html?idxno=42391",
+      "image_source_url": "https://cdn.aitimes.kr/news/thumbnail/202610/42391_63728_1030_v150.jpg",
+      "image_local_path": "assets/case/2026-10-23/seoul-ai.jpg"
+    },
+    {
+      "name": "한국 PHP 보안 대응",
+      "region": "KR",
+      "source_url": "https://www.hankyung.com/article/2026102293811",
+      "image_source_url": "https://img.hankyung.com/photo/202610/ZA.46154942.1.jpg",
+      "image_local_path": "assets/case/2026-10-23/php.jpg"
     }
   ]
 }
