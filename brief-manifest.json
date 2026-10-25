@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-23",
-  "title": "AI가 스스로 움직일수록, 권한과 복구 경로를 먼저 설계한다",
-  "html": "archive/2026-10-23/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-23/index.html?kakao=20261023-ko-v1",
-  "og_image_path": "assets/og-2026-10-23-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-23-v1.png",
+  "date": "2026-10-26",
+  "title": "AI가 커질수록, 성과보다 검증과 통제가 먼저다",
+  "html": "archive/2026-10-26/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-26/index.html?kakao=20261026-ko-v1",
+  "og_image_path": "assets/og-2026-10-26-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-26-v1.png",
   "cases": [
     {
-      "name": "Anthropic Claude Duet",
+      "name": "Anthropic Claude 장애 대응",
       "region": "GLOBAL",
-      "source_url": "https://www.yna.co.kr/view/AKR20261023006600091",
-      "image_source_url": "https://img1.yna.co.kr/etc/inner/KR/2026/10/23/AKR20261023006600091_02_i_P4.jpg",
-      "image_local_path": "assets/case/2026-10-23/claude-duet.jpg"
+      "source_url": "https://www.unite.ai/ko/anthropic-investigates-elevated-errors-across-five-claude-models/",
+      "image_source_url": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-investigates-elevated-errors-across-five-claude-models.jpg",
+      "image_local_path": "assets/case/2026-10-26/claude-outage.jpg"
     },
     {
-      "name": "OpenAI × Google Cloud",
-      "region": "GLOBAL",
-      "source_url": "https://cloud.google.com/blog/ko/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers",
-      "image_source_url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Open-ai-google-models-hero.max-2500x2500.png",
-      "image_local_path": "assets/case/2026-10-23/openai-cloud.png"
-    },
-    {
-      "name": "OpenAI DevDay Seoul",
+      "name": "챗GPT 결제 성장",
       "region": "KR",
-      "source_url": "https://www.hankookilbo.com/news/article/amp/A2026102216430003519",
-      "image_source_url": "https://newsimg.hankookilbo.com/2026/10/22/9c2b8329-a448-469a-81ba-46829e427ca5.jpg",
-      "image_local_path": "assets/case/2026-10-23/devday.jpg"
+      "source_url": "https://www.hankyung.com/article/2026102535391",
+      "image_source_url": "https://img.hankyung.com/photo/202610/ZA.46114056.1.jpg",
+      "image_local_path": "assets/case/2026-10-26/chatgpt-payments.jpg"
     },
     {
-      "name": "서울 AI 활용 역량",
+      "name": "OpenAI 데이터 분석 업무",
       "region": "KR",
-      "source_url": "https://www.aitimes.kr/news/articleView.html?idxno=42391",
-      "image_source_url": "https://cdn.aitimes.kr/news/thumbnail/202610/42391_63728_1030_v150.jpg",
-      "image_local_path": "assets/case/2026-10-23/seoul-ai.jpg"
+      "source_url": "https://www.aitimes.kr/news/articleView.html?idxno=42423",
+      "image_source_url": "https://cdn.aitimes.kr/news/thumbnail/202610/42423_63769_4044_v150.jpg",
+      "image_local_path": "assets/case/2026-10-26/openai-data-analysis.jpg"
     },
     {
-      "name": "한국 PHP 보안 대응",
+      "name": "한국인의 AI 건강정보 이용",
       "region": "KR",
-      "source_url": "https://www.hankyung.com/article/2026102293811",
-      "image_source_url": "https://img.hankyung.com/photo/202610/ZA.46154942.1.jpg",
-      "image_local_path": "assets/case/2026-10-23/php.jpg"
+      "source_url": "https://www.mk.co.kr/news/economy/12185204",
+      "image_source_url": "https://pimg.mk.co.kr/news/cms/202610/26/20261026_01110102000003_S00.jpg",
+      "image_local_path": "assets/case/2026-10-26/ai-health.jpg"
+    },
+    {
+      "name": "AI 투자 거품 경고",
+      "region": "KR",
+      "source_url": "https://www.mt.co.kr/world/2026/10/25/2026102313455310948",
+      "image_source_url": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102313455310948_1.jpg",
+      "image_local_path": "assets/case/2026-10-26/ai-bubble.jpg"
     }
   ]
 }
