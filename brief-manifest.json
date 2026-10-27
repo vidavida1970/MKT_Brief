@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-26",
-  "title": "AI가 커질수록, 성과보다 검증과 통제가 먼저다",
-  "html": "archive/2026-10-26/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-26/index.html?kakao=20261026-ko-v1",
-  "og_image_path": "assets/og-2026-10-26-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-26-v1.png",
+  "date": "2026-10-27",
+  "title": "AI가 커질수록, 접근권한과 책임을 먼저 설계한다",
+  "html": "archive/2026-10-27/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-27/index.html?kakao=20261027-ko-v1",
+  "og_image_path": "assets/og-2026-10-27-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-27-v1.png",
   "cases": [
     {
-      "name": "Anthropic Claude 장애 대응",
+      "name": "Anthropic IPO 신청",
       "region": "GLOBAL",
-      "source_url": "https://www.unite.ai/ko/anthropic-investigates-elevated-errors-across-five-claude-models/",
-      "image_source_url": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-investigates-elevated-errors-across-five-claude-models.jpg",
-      "image_local_path": "assets/case/2026-10-26/claude-outage.jpg"
+      "source_url": "https://mobile.newsis.com/view/NISX20261026_0003841953",
+      "image_source_url": "https://img1.newsis.com/2026/10/13/NISI20261013_0002262164_web.jpg",
+      "image_local_path": "assets/case/2026-10-27/anthropic-ipo.jpg"
     },
     {
-      "name": "챗GPT 결제 성장",
-      "region": "KR",
-      "source_url": "https://www.hankyung.com/article/2026102535391",
-      "image_source_url": "https://img.hankyung.com/photo/202610/ZA.46114056.1.jpg",
-      "image_local_path": "assets/case/2026-10-26/chatgpt-payments.jpg"
+      "name": "Google Agentic AI Platform",
+      "region": "GLOBAL",
+      "source_url": "https://cloud.google.com/blog/ko/products/ai-machine-learning/google-named-leader-in-2026-idc-marketscape-for-agentic-ai-platforms?hl=ko",
+      "image_source_url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image_5_i5rXZEH.max-2100x2100.png",
+      "image_local_path": "assets/case/2026-10-27/google-agentic.png"
     },
     {
-      "name": "OpenAI 데이터 분석 업무",
+      "name": "솔트웨어 Sapie-Guardian",
       "region": "KR",
-      "source_url": "https://www.aitimes.kr/news/articleView.html?idxno=42423",
-      "image_source_url": "https://cdn.aitimes.kr/news/thumbnail/202610/42423_63769_4044_v150.jpg",
-      "image_local_path": "assets/case/2026-10-26/openai-data-analysis.jpg"
+      "source_url": "https://www.aitimes.kr/news/articleView.html?idxno=42429",
+      "image_source_url": "https://cdn.aitimes.kr/news/thumbnail/202610/42429_63778_3435_v150.jpg",
+      "image_local_path": "assets/case/2026-10-27/saltware.jpg"
     },
     {
-      "name": "한국인의 AI 건강정보 이용",
+      "name": "컴투스플랫폼 AI 게임 운영",
       "region": "KR",
-      "source_url": "https://www.mk.co.kr/news/economy/12185204",
-      "image_source_url": "https://pimg.mk.co.kr/news/cms/202610/26/20261026_01110102000003_S00.jpg",
-      "image_local_path": "assets/case/2026-10-26/ai-health.jpg"
+      "source_url": "https://www.ddaily.co.kr/page/view/2026102615161520807",
+      "image_source_url": "https://www.ddaily.co.kr/photos/2026/10/26/2026102615140244834_l.jpg",
+      "image_local_path": "assets/case/2026-10-27/com2us.jpg"
     },
     {
-      "name": "AI 투자 거품 경고",
+      "name": "장성군 AI·디지털배움터",
       "region": "KR",
-      "source_url": "https://www.mt.co.kr/world/2026/10/25/2026102313455310948",
-      "image_source_url": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102313455310948_1.jpg",
-      "image_local_path": "assets/case/2026-10-26/ai-bubble.jpg"
+      "source_url": "https://www.jstnews.co.kr/news/articleView.html?idxno=15048",
+      "image_source_url": "https://www.jstnews.co.kr/news/thumbnail/202610/15048_18998_503_v150.jpg",
+      "image_local_path": "assets/case/2026-10-27/jangseong.jpg"
     }
   ]
 }
