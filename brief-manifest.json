@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-27",
-  "title": "AI가 커질수록, 접근권한과 책임을 먼저 설계한다",
-  "html": "archive/2026-10-27/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-27/index.html?kakao=20261027-ko-v1",
-  "og_image_path": "assets/og-2026-10-27-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-27-v1.png",
+  "date": "2026-10-28",
+  "title": "AI가 확장될수록, 비용·현장·책임을 함께 설계한다",
+  "html": "archive/2026-10-28/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-28/index.html?kakao=20261028-ko-v1",
+  "og_image_path": "assets/og-2026-10-28-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-28-v1.png",
   "cases": [
     {
-      "name": "Anthropic IPO 신청",
+      "name": "Gemini 4 Argon 엔터프라이즈 확장",
       "region": "GLOBAL",
-      "source_url": "https://mobile.newsis.com/view/NISX20261026_0003841953",
-      "image_source_url": "https://img1.newsis.com/2026/10/13/NISI20261013_0002262164_web.jpg",
-      "image_local_path": "assets/case/2026-10-27/anthropic-ipo.jpg"
+      "source_url": "https://cloud.google.com/blog/ko/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud?hl=ko",
+      "image_source_url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Teaser_2.2_approved.max-2200x2200.png",
+      "image_local_path": "assets/case/2026-10-28/gemini-argon.png"
     },
     {
-      "name": "Google Agentic AI Platform",
-      "region": "GLOBAL",
-      "source_url": "https://cloud.google.com/blog/ko/products/ai-machine-learning/google-named-leader-in-2026-idc-marketscape-for-agentic-ai-platforms?hl=ko",
-      "image_source_url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image_5_i5rXZEH.max-2100x2100.png",
-      "image_local_path": "assets/case/2026-10-27/google-agentic.png"
-    },
-    {
-      "name": "솔트웨어 Sapie-Guardian",
+      "name": "GPT-6.1 Terra 업무 자동화",
       "region": "KR",
-      "source_url": "https://www.aitimes.kr/news/articleView.html?idxno=42429",
-      "image_source_url": "https://cdn.aitimes.kr/news/thumbnail/202610/42429_63778_3435_v150.jpg",
-      "image_local_path": "assets/case/2026-10-27/saltware.jpg"
+      "source_url": "https://www.newsis.com/view/NISX20261027_0003842381",
+      "image_source_url": "https://img1.newsis.com/2026/10/27/NISI20261027_0002274672_web.jpg",
+      "image_local_path": "assets/case/2026-10-28/terra-newsis.jpg"
     },
     {
-      "name": "컴투스플랫폼 AI 게임 운영",
+      "name": "AWS 한국 AI 잠재력 보고서",
       "region": "KR",
-      "source_url": "https://www.ddaily.co.kr/page/view/2026102615161520807",
-      "image_source_url": "https://www.ddaily.co.kr/photos/2026/10/26/2026102615140244834_l.jpg",
-      "image_local_path": "assets/case/2026-10-27/com2us.jpg"
+      "source_url": "https://www3.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02177926645580120",
+      "image_source_url": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26091400228.jpg",
+      "image_local_path": "assets/case/2026-10-28/aws-korea.jpg"
     },
     {
-      "name": "장성군 AI·디지털배움터",
+      "name": "NC AI 피지컬 AI 국책 과제",
       "region": "KR",
-      "source_url": "https://www.jstnews.co.kr/news/articleView.html?idxno=15048",
-      "image_source_url": "https://www.jstnews.co.kr/news/thumbnail/202610/15048_18998_503_v150.jpg",
-      "image_local_path": "assets/case/2026-10-27/jangseong.jpg"
+      "source_url": "https://nc-ai.com/ko/newsroom/press/nc-ai-ai-166820",
+      "image_source_url": "https://cdn.nc-ai.com/press/6b43a32f-b1df-406d-8b93-77aec260af44/nc-ai-nc-ai-ai-1.jpg",
+      "image_local_path": "assets/case/2026-10-28/nc-ai.jpg"
+    },
+    {
+      "name": "삼일PwC Physical AI 리포트",
+      "region": "KR",
+      "source_url": "https://www.pwc.com/kr/ko/insights/industry-focus/physical-ai-competition.html",
+      "image_source_url": "https://www.pwc.com/kr/ko/insights/industry-focus/physical-ai-competition-hero.jpg",
+      "image_local_path": "assets/case/2026-10-28/pwc-physical-ai.jpg"
     }
   ]
 }
