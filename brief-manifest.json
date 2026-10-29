@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-29",
-  "title": "AI는 기능이 아니라, 자료·권한·검수의 흐름으로 설계된다",
-  "html": "archive/2026-10-29/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-29/index.html?kakao=20261029-ko-v1",
-  "og_image_path": "assets/og-2026-10-29-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-29-v1.png",
+  "date": "2026-10-30",
+  "title": "AI는 성능을 넘어, 실제 업무에 쓰이는 구조를 만든다",
+  "html": "archive/2026-10-30/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-30/index.html?kakao=20261030-ko-v1",
+  "og_image_path": "assets/og-2026-10-30-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-30-v1.png",
   "cases": [
     {
-      "name": "질병관리청 건강도우미 챗봇",
+      "name": "미리캔버스 AI 커넥터",
       "region": "KR",
-      "source_url": "https://www.aitimes.kr/news/articleView.html?idxno=42468",
-      "image_source_url": "https://cdn.aitimes.kr/news/thumbnail/202610/42468_63838_1323_v150.jpg",
-      "image_local_path": "assets/case/2026-10-29/kdca.jpg"
+      "source_url": "https://help.miricanvas.com/hc/ko/articles/63391689320601-%EB%AF%B8%EB%A6%AC%EC%BA%94%EB%B2%84%EC%8A%A4-AI-%EC%BB%A4%EB%84%A5%ED%84%B0-%EC%86%8C%EA%B0%9C",
+      "image_source_url": "https://image.zdnet.co.kr/2026/10/29/0de54b42a336da61c8c3c5ff96542f54.jpg",
+      "image_local_path": "assets/case/2026-10-30/miricanvas.jpg"
     },
     {
-      "name": "Gemini 4 Carbon",
-      "region": "GLOBAL",
-      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "image_source_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
-      "image_local_path": "assets/case/2026-10-29/gemini-carbon.png"
+      "name": "클립아트코리아 AI 연결",
+      "region": "KR",
+      "source_url": "https://www.clipartkorea.co.kr/service/ai_connect",
+      "image_source_url": "https://www.madtimes.co.kr/news/thumbnail/202610/29488_72391_2517_v150.jpg",
+      "image_local_path": "assets/case/2026-10-30/clipart.jpg"
     },
     {
-      "name": "Microsoft Copilot harness",
-      "region": "GLOBAL",
-      "source_url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
-      "image_source_url": "https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-CoreAI-Hero-Final-10_28-1024x576.png",
-      "image_local_path": "assets/case/2026-10-29/copilot-harness.png"
+      "name": "중소제조 피지컬 AI 확산 전략",
+      "region": "KR",
+      "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974541",
+      "image_source_url": "https://www.korea.kr/newsWeb/resources/attaches/2026.10/29/6780e9a2267970448a044d54ffc69f7a.jpg",
+      "image_local_path": "assets/case/2026-10-30/physical.jpg"
     },
     {
-      "name": "Opera WebAI",
+      "name": "Claude for Legal Artifacts",
       "region": "GLOBAL",
-      "source_url": "https://blogs.opera.com/news/2026/10/webai-local-ai-for-the-web-now-in-opera/",
-      "image_source_url": "https://www-static-blogs.operacdn.com/news/wp-content/uploads/sites/2/2026/10/image-6.png",
-      "image_local_path": "assets/case/2026-10-29/opera-webai.png"
+      "source_url": "https://claude.com/ko/resources/articles/introducing-artifacts-for-legal-work",
+      "image_source_url": "https://claude.com/ko/resources/articles/introducing-artifacts-for-legal-work/opengraph-image/og",
+      "image_local_path": "assets/case/2026-10-30/claude-legal.png"
     },
     {
-      "name": "Surge AI DAYJOB: Tax",
+      "name": "SentinelOne × Claude Mythos 5.1",
       "region": "GLOBAL",
-      "source_url": "https://surgehq.ai/blog/dayjob-tax",
-      "image_source_url": "https://cdn.prod.website-files.com/68dcd2ceb173c46fa029931c/6ae0beffc0ef7d2c805991ec_6ae0bef7bc59db92222e060b_dayjob-tax-cover-v3.png",
-      "image_local_path": "assets/case/2026-10-29/dayjob-tax.png"
+      "source_url": "https://www.sentinelone.com/press/sentinelone-to-add-anthropic-s-claude-mythos-5-1-to-wayfinder-frontier-ai-services/",
+      "image_source_url": "https://content-media.investing.com/news/SentinelOne_800x533_L_1625147631.jpg",
+      "image_local_path": "assets/case/2026-10-30/sentinelone.jpg"
     }
   ]
 }
