@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-28",
-  "title": "AI가 확장될수록, 비용·현장·책임을 함께 설계한다",
-  "html": "archive/2026-10-28/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-28/index.html?kakao=20261028-ko-v1",
-  "og_image_path": "assets/og-2026-10-28-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-28-v1.png",
+  "date": "2026-10-29",
+  "title": "AI는 기능이 아니라, 자료·권한·검수의 흐름으로 설계된다",
+  "html": "archive/2026-10-29/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-29/index.html?kakao=20261029-ko-v1",
+  "og_image_path": "assets/og-2026-10-29-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-29-v1.png",
   "cases": [
     {
-      "name": "Gemini 4 Argon 엔터프라이즈 확장",
+      "name": "질병관리청 건강도우미 챗봇",
+      "region": "KR",
+      "source_url": "https://www.aitimes.kr/news/articleView.html?idxno=42468",
+      "image_source_url": "https://cdn.aitimes.kr/news/thumbnail/202610/42468_63838_1323_v150.jpg",
+      "image_local_path": "assets/case/2026-10-29/kdca.jpg"
+    },
+    {
+      "name": "Gemini 4 Carbon",
       "region": "GLOBAL",
-      "source_url": "https://cloud.google.com/blog/ko/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud?hl=ko",
-      "image_source_url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Teaser_2.2_approved.max-2200x2200.png",
-      "image_local_path": "assets/case/2026-10-28/gemini-argon.png"
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "image_source_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
+      "image_local_path": "assets/case/2026-10-29/gemini-carbon.png"
     },
     {
-      "name": "GPT-6.1 Terra 업무 자동화",
-      "region": "KR",
-      "source_url": "https://www.newsis.com/view/NISX20261027_0003842381",
-      "image_source_url": "https://img1.newsis.com/2026/10/27/NISI20261027_0002274672_web.jpg",
-      "image_local_path": "assets/case/2026-10-28/terra-newsis.jpg"
+      "name": "Microsoft Copilot harness",
+      "region": "GLOBAL",
+      "source_url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
+      "image_source_url": "https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-CoreAI-Hero-Final-10_28-1024x576.png",
+      "image_local_path": "assets/case/2026-10-29/copilot-harness.png"
     },
     {
-      "name": "AWS 한국 AI 잠재력 보고서",
-      "region": "KR",
-      "source_url": "https://www3.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02177926645580120",
-      "image_source_url": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26091400228.jpg",
-      "image_local_path": "assets/case/2026-10-28/aws-korea.jpg"
+      "name": "Opera WebAI",
+      "region": "GLOBAL",
+      "source_url": "https://blogs.opera.com/news/2026/10/webai-local-ai-for-the-web-now-in-opera/",
+      "image_source_url": "https://www-static-blogs.operacdn.com/news/wp-content/uploads/sites/2/2026/10/image-6.png",
+      "image_local_path": "assets/case/2026-10-29/opera-webai.png"
     },
     {
-      "name": "NC AI 피지컬 AI 국책 과제",
-      "region": "KR",
-      "source_url": "https://nc-ai.com/ko/newsroom/press/nc-ai-ai-166820",
-      "image_source_url": "https://cdn.nc-ai.com/press/6b43a32f-b1df-406d-8b93-77aec260af44/nc-ai-nc-ai-ai-1.jpg",
-      "image_local_path": "assets/case/2026-10-28/nc-ai.jpg"
-    },
-    {
-      "name": "삼일PwC Physical AI 리포트",
-      "region": "KR",
-      "source_url": "https://www.pwc.com/kr/ko/insights/industry-focus/physical-ai-competition.html",
-      "image_source_url": "https://www.pwc.com/kr/ko/insights/industry-focus/physical-ai-competition-hero.jpg",
-      "image_local_path": "assets/case/2026-10-28/pwc-physical-ai.jpg"
+      "name": "Surge AI DAYJOB: Tax",
+      "region": "GLOBAL",
+      "source_url": "https://surgehq.ai/blog/dayjob-tax",
+      "image_source_url": "https://cdn.prod.website-files.com/68dcd2ceb173c46fa029931c/6ae0beffc0ef7d2c805991ec_6ae0bef7bc59db92222e060b_dayjob-tax-cover-v3.png",
+      "image_local_path": "assets/case/2026-10-29/dayjob-tax.png"
     }
   ]
 }
