@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-30",
-  "title": "AI는 성능을 넘어, 실제 업무에 쓰이는 구조를 만든다",
-  "html": "archive/2026-10-30/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-10-30/index.html?kakao=20261030-ko-v1",
-  "og_image_path": "assets/og-2026-10-30-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-10-30-v1.png",
+  "date": "2026-11-02",
+  "title": "AI를 잘 쓰는 조직은 한도·검수·책임을 먼저 설계한다",
+  "html": "archive/2026-11-02/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-02/index.html?kakao=20261102-ko-v1",
+  "og_image_path": "assets/og-2026-11-02-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-02-v1.png",
   "cases": [
     {
-      "name": "미리캔버스 AI 커넥터",
+      "name": "삼성SDS Shadow AI 조사",
       "region": "KR",
-      "source_url": "https://help.miricanvas.com/hc/ko/articles/63391689320601-%EB%AF%B8%EB%A6%AC%EC%BA%94%EB%B2%84%EC%8A%A4-AI-%EC%BB%A4%EB%84%A5%ED%84%B0-%EC%86%8C%EA%B0%9C",
-      "image_source_url": "https://image.zdnet.co.kr/2026/10/29/0de54b42a336da61c8c3c5ff96542f54.jpg",
-      "image_local_path": "assets/case/2026-10-30/miricanvas.jpg"
+      "source_url": "https://www.samsungsds.com/kr/insights/enterprise-genai-usage-survey_part1.html",
+      "image_source_url": "https://image.samsungsds.com/kr/insights/__icsFiles/afieldfile/2026/07/30/02_INSIGHT_03_Thumb_list_2.png?queryString=20261022095632",
+      "image_local_path": "assets/case/2026-11-02/samsung-sds.png"
     },
     {
-      "name": "클립아트코리아 AI 연결",
+      "name": "KOTRA AI 무역인재양성",
       "region": "KR",
-      "source_url": "https://www.clipartkorea.co.kr/service/ai_connect",
-      "image_source_url": "https://www.madtimes.co.kr/news/thumbnail/202610/29488_72391_2517_v150.jpg",
-      "image_local_path": "assets/case/2026-10-30/clipart.jpg"
+      "source_url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?cpbizYn=N&dtlBizMntNo=26ED00N",
+      "image_source_url": "https://www.kotra.or.kr:443/module/upload/file/selectImageView.do?atchFileId=40000041484&fileSn=0",
+      "image_local_path": "assets/case/2026-11-02/kotra.png"
     },
     {
-      "name": "중소제조 피지컬 AI 확산 전략",
+      "name": "AI 법령 비서",
       "region": "KR",
-      "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974541",
-      "image_source_url": "https://www.korea.kr/newsWeb/resources/attaches/2026.10/29/6780e9a2267970448a044d54ffc69f7a.jpg",
-      "image_local_path": "assets/case/2026-10-30/physical.jpg"
+      "source_url": "https://m.korea.kr/multi/visualNewsView.do?newsId=148968063&pWise=mSub&pWiseSub=RT1",
+      "image_source_url": "https://www.korea.kr/newsWeb/resources/attaches/2026.07/13/97149bca70b70437dbb78cd63853f89d.jpg",
+      "image_local_path": "assets/case/2026-11-02/ai-law-assistant.jpg"
     },
     {
-      "name": "Claude for Legal Artifacts",
+      "name": "AWS 한국 AI 잠재력 리포트",
+      "region": "KR",
+      "source_url": "https://www3.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02177926645580120",
+      "image_source_url": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26091400228.jpg",
+      "image_local_path": "assets/case/2026-11-02/edaily-ai.png"
+    },
+    {
+      "name": "OpenAI ChatGPT·Codex 공통 한도",
       "region": "GLOBAL",
-      "source_url": "https://claude.com/ko/resources/articles/introducing-artifacts-for-legal-work",
-      "image_source_url": "https://claude.com/ko/resources/articles/introducing-artifacts-for-legal-work/opengraph-image/og",
-      "image_local_path": "assets/case/2026-10-30/claude-legal.png"
-    },
-    {
-      "name": "SentinelOne × Claude Mythos 5.1",
-      "region": "GLOBAL",
-      "source_url": "https://www.sentinelone.com/press/sentinelone-to-add-anthropic-s-claude-mythos-5-1-to-wayfinder-frontier-ai-services/",
-      "image_source_url": "https://content-media.investing.com/news/SentinelOne_800x533_L_1625147631.jpg",
-      "image_local_path": "assets/case/2026-10-30/sentinelone.jpg"
+      "source_url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "image_source_url": "https://help.openai.com/og-image.png",
+      "image_local_path": "assets/case/2026-11-02/openai-og.png"
     }
   ]
 }
