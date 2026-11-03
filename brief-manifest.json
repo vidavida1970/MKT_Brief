@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-02",
-  "title": "AI를 잘 쓰는 조직은 한도·검수·책임을 먼저 설계한다",
-  "html": "archive/2026-11-02/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-02/index.html?kakao=20261102-ko-v1",
-  "og_image_path": "assets/og-2026-11-02-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-02-v1.png",
+  "date": "2026-11-03",
+  "title": "AI 도입의 다음 단계는 모델보다 운영 구조를 설계하는 일이다",
+  "html": "archive/2026-11-03/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-03/index.html?kakao=20261103-ko-v1",
+  "og_image_path": "assets/og-2026-11-03-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-03-v1.png",
   "cases": [
     {
-      "name": "삼성SDS Shadow AI 조사",
+      "name": "슈퍼브에이아이 × LH",
       "region": "KR",
-      "source_url": "https://www.samsungsds.com/kr/insights/enterprise-genai-usage-survey_part1.html",
-      "image_source_url": "https://image.samsungsds.com/kr/insights/__icsFiles/afieldfile/2026/07/30/02_INSIGHT_03_Thumb_list_2.png?queryString=20261022095632",
-      "image_local_path": "assets/case/2026-11-02/samsung-sds.png"
+      "source_url": "https://blog-ko.superb-ai.com/superb-ai-delivers-vlm-based-defect-auto-classification-to-lh-18-000-categories-from-a-single-photo/",
+      "image_source_url": "https://storage.ghost.io/c/73/74/73741b5e-0bdf-4e6f-9161-743bc6f76d78/content/images/2026/10/lh-img1-photo.jpg",
+      "image_local_path": "assets/case/2026-11-03/superb-lh.jpg"
     },
     {
-      "name": "KOTRA AI 무역인재양성",
+      "name": "한컴 노마디안",
       "region": "KR",
-      "source_url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?cpbizYn=N&dtlBizMntNo=26ED00N",
-      "image_source_url": "https://www.kotra.or.kr:443/module/upload/file/selectImageView.do?atchFileId=40000041484&fileSn=0",
-      "image_local_path": "assets/case/2026-11-02/kotra.png"
+      "source_url": "https://www.hancomgroup.com/posts/3?menuId=46&parentId=22",
+      "image_source_url": "https://www.hancomgroup.com/images/common/meta_img.jpg",
+      "image_local_path": "assets/case/2026-11-03/hancom-nomadian.jpg"
     },
     {
-      "name": "AI 법령 비서",
+      "name": "AI 정부 실험실",
       "region": "KR",
-      "source_url": "https://m.korea.kr/multi/visualNewsView.do?newsId=148968063&pWise=mSub&pWiseSub=RT1",
-      "image_source_url": "https://www.korea.kr/newsWeb/resources/attaches/2026.07/13/97149bca70b70437dbb78cd63853f89d.jpg",
-      "image_local_path": "assets/case/2026-11-02/ai-law-assistant.jpg"
+      "source_url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156780691&pWise=ministryNews&repCode=A00031&repCodeType=%EC%A0%95%EB%B6%80%EB%B6%80%EC%B2%98",
+      "image_source_url": "https://www.korea.kr/images/event/korea_logo_2024.jpg",
+      "image_local_path": "assets/case/2026-11-03/gov-ai-lab.jpg"
     },
     {
-      "name": "AWS 한국 AI 잠재력 리포트",
-      "region": "KR",
-      "source_url": "https://www3.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02177926645580120",
-      "image_source_url": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26091400228.jpg",
-      "image_local_path": "assets/case/2026-11-02/edaily-ai.png"
-    },
-    {
-      "name": "OpenAI ChatGPT·Codex 공통 한도",
+      "name": "MIT Weight-Space Programming",
       "region": "GLOBAL",
-      "source_url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "image_source_url": "https://help.openai.com/og-image.png",
-      "image_local_path": "assets/case/2026-11-02/openai-og.png"
+      "source_url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "image_source_url": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
+      "image_local_path": "assets/case/2026-11-03/mit-weight-space.png"
+    },
+    {
+      "name": "OpenAI Grid Protectors Program",
+      "region": "GLOBAL",
+      "source_url": "https://openai.com/index/grid-protectors-program",
+      "image_source_url": "https://images.ctfassets.net/kftzwdyauwt9/0147SbQFof5ozkgFJTdG0j/1daae8bb107fb504ef83be52e10e550f/introducing-the-grid-protectors-program-social.png?w=1600&h=900&fit=fill",
+      "image_local_path": "assets/case/2026-11-03/openai-grid.jpg"
     }
   ]
 }
