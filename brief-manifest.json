@@ -1,45 +1,15 @@
 {
-  "date": "2026-11-03",
-  "title": "AI 도입의 다음 단계는 모델보다 운영 구조를 설계하는 일이다",
-  "html": "archive/2026-11-03/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-03/index.html?kakao=20261103-ko-v1",
-  "og_image_path": "assets/og-2026-11-03-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-03-v1.png",
+  "date": "2026-11-04",
+  "title": "AI 경쟁의 승부처는 모델 점수가 아니라, 신뢰가 쌓이는 업무 접점이다",
+  "html": "archive/2026-11-04/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-04/index.html?kakao=20261104-ko-v1",
+  "og_image_path": "assets/og-2026-11-04-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-04-v1.png",
   "cases": [
-    {
-      "name": "슈퍼브에이아이 × LH",
-      "region": "KR",
-      "source_url": "https://blog-ko.superb-ai.com/superb-ai-delivers-vlm-based-defect-auto-classification-to-lh-18-000-categories-from-a-single-photo/",
-      "image_source_url": "https://storage.ghost.io/c/73/74/73741b5e-0bdf-4e6f-9161-743bc6f76d78/content/images/2026/10/lh-img1-photo.jpg",
-      "image_local_path": "assets/case/2026-11-03/superb-lh.jpg"
-    },
-    {
-      "name": "한컴 노마디안",
-      "region": "KR",
-      "source_url": "https://www.hancomgroup.com/posts/3?menuId=46&parentId=22",
-      "image_source_url": "https://www.hancomgroup.com/images/common/meta_img.jpg",
-      "image_local_path": "assets/case/2026-11-03/hancom-nomadian.jpg"
-    },
-    {
-      "name": "AI 정부 실험실",
-      "region": "KR",
-      "source_url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156780691&pWise=ministryNews&repCode=A00031&repCodeType=%EC%A0%95%EB%B6%80%EB%B6%80%EC%B2%98",
-      "image_source_url": "https://www.korea.kr/images/event/korea_logo_2024.jpg",
-      "image_local_path": "assets/case/2026-11-03/gov-ai-lab.jpg"
-    },
-    {
-      "name": "MIT Weight-Space Programming",
-      "region": "GLOBAL",
-      "source_url": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "image_source_url": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
-      "image_local_path": "assets/case/2026-11-03/mit-weight-space.png"
-    },
-    {
-      "name": "OpenAI Grid Protectors Program",
-      "region": "GLOBAL",
-      "source_url": "https://openai.com/index/grid-protectors-program",
-      "image_source_url": "https://images.ctfassets.net/kftzwdyauwt9/0147SbQFof5ozkgFJTdG0j/1daae8bb107fb504ef83be52e10e550f/introducing-the-grid-protectors-program-social.png?w=1600&h=900&fit=fill",
-      "image_local_path": "assets/case/2026-11-03/openai-grid.jpg"
-    }
+    {"name":"골든플래닛 × 은평성모병원","region":"KR","source_url":"https://m.segye.com/view/20261103511563","image_source_url":"https://www.segye.com/content/image/2026/11/03/20261103511556.jpg","image_local_path":"assets/case/2026-11-04/eunpyeong-gemini.jpg"},
+    {"name":"우석대학교 AI:ON 우석","region":"KR","source_url":"http://www.todayan.com/news/articleView.html?idxno=635765","image_source_url":"https://cdn.todayan.com/news/thumbnail/202611/635765_548210_120_v150.jpg","image_local_path":"assets/case/2026-11-04/woosuk-aion.jpg"},
+    {"name":"금융권 AI 검색","region":"KR","source_url":"https://www.asiatoday.co.kr/kn/view.php?key=20261103010001118","image_source_url":"https://img.asiatoday.co.kr/file/2026y/11m/04d/2026110301000208600011181.jpg","image_local_path":"assets/case/2026-11-04/finance-ai-search.jpg"},
+    {"name":"Google Gemini 4 Carbon","region":"GLOBAL","source_url":"https://mezha.net/ko/news/mezha-b6066273f3735f1e9d13f168_google-s-gemini-4-carbon-tops/","image_source_url":"https://mezha.net/ko/wp-content/mezha-og-r205/kd_image_generate/ko/1723185-8059d9450286.jpg","image_local_path":"assets/case/2026-11-04/gemini-carbon.jpg"},
+    {"name":"Anthropic × 전문 데이터","region":"GLOBAL","source_url":"https://kr.investing.com/news/stock-market-news/article-2156431","image_source_url":"https://content-media.investing.com/news/moved_LYNXMPEM6115G_L.jpg","image_local_path":"assets/case/2026-11-04/anthropic-chips.jpg"}
   ]
 }
