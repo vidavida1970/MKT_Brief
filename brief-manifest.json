@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-04",
-  "title": "AI 경쟁의 승부처는 모델 점수가 아니라, 신뢰가 쌓이는 업무 접점이다",
-  "html": "archive/2026-11-04/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-04/index.html?kakao=20261104-ko-v1",
-  "og_image_path": "assets/og-2026-11-04-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-04-v1.png",
-  "cases": [
-    {"name":"골든플래닛 × 은평성모병원","region":"KR","source_url":"https://m.segye.com/view/20261103511563","image_source_url":"https://www.segye.com/content/image/2026/11/03/20261103511556.jpg","image_local_path":"assets/case/2026-11-04/eunpyeong-gemini.jpg"},
-    {"name":"우석대학교 AI:ON 우석","region":"KR","source_url":"http://www.todayan.com/news/articleView.html?idxno=635765","image_source_url":"https://cdn.todayan.com/news/thumbnail/202611/635765_548210_120_v150.jpg","image_local_path":"assets/case/2026-11-04/woosuk-aion.jpg"},
-    {"name":"금융권 AI 검색","region":"KR","source_url":"https://www.asiatoday.co.kr/kn/view.php?key=20261103010001118","image_source_url":"https://img.asiatoday.co.kr/file/2026y/11m/04d/2026110301000208600011181.jpg","image_local_path":"assets/case/2026-11-04/finance-ai-search.jpg"},
-    {"name":"Google Gemini 4 Carbon","region":"GLOBAL","source_url":"https://mezha.net/ko/news/mezha-b6066273f3735f1e9d13f168_google-s-gemini-4-carbon-tops/","image_source_url":"https://mezha.net/ko/wp-content/mezha-og-r205/kd_image_generate/ko/1723185-8059d9450286.jpg","image_local_path":"assets/case/2026-11-04/gemini-carbon.jpg"},
-    {"name":"Anthropic × 전문 데이터","region":"GLOBAL","source_url":"https://kr.investing.com/news/stock-market-news/article-2156431","image_source_url":"https://content-media.investing.com/news/moved_LYNXMPEM6115G_L.jpg","image_local_path":"assets/case/2026-11-04/anthropic-chips.jpg"}
+  "date":"2026-11-05",
+  "title":"AI를 더 많이 쓸수록, 보안·비용·대체 경로를 함께 설계해야 한다",
+  "html":"archive/2026-11-05/index.html",
+  "published_url":"https://vidavida1970.github.io/MKT_Brief/archive/2026-11-05/index.html?kakao=20261105-ko-v1",
+  "og_image_path":"assets/og-2026-11-05-v1.png",
+  "og_image_url":"https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-05-v1.png",
+  "cases":[
+    {"name":"ChatGPT Search","region":"KR","source_url":"https://www.chosun.com/economy/tech_it/2026/11/04/JWVB6NRKBFHKXAEO2UUBTASYJI/","image_source_url":"https://www.chosun.com/resizer/v2/MQ4WEMBWGM2DOMTCGJQTGYRZMQ.jpg?auth=2eb7e8a24f4a25f64c767698f1fe569b30f0f74665882cc12bdc25ffe43b64bc&width=1200&height=630&smart=true","image_local_path":"assets/case/2026-11-05/chatgpt-search.jpg"},
+    {"name":"ChatGPT 장애","region":"KR","source_url":"https://www.hankyung.com/article/202611044353g","image_source_url":"https://img.hankyung.com/photo/202611/01.46301716.1.jpg","image_local_path":"assets/case/2026-11-05/chatgpt-outage.jpg"},
+    {"name":"동의대 × Google Korea","region":"KR","source_url":"https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261104.99099001299","image_source_url":"https://db.kookje.co.kr/news2000/photo/2026/1104/L20261104.99099001299i1.jpg?18","image_local_path":"assets/case/2026-11-05/gemini-academy.jpg"},
+    {"name":"판사들을 위한 AI","region":"KR","source_url":"https://www.youtube.com/watch?v=EoIJFGjDpOQ","image_source_url":"https://i.ytimg.com/vi/EoIJFGjDpOQ/maxresdefault.jpg","image_local_path":"assets/case/2026-11-05/judge-ai.jpg"},
+    {"name":"Heimstaden × OpenAI","region":"GLOBAL","source_url":"https://openai.com/ko-KR/index/heimstaden/","image_source_url":"https://images.ctfassets.net/kftzwdyauwt9/BJ4nJzcUdBNquMyox1gEz/27e1824d4f3565364c2a0aa36c28131d/heimstaden-bostad-terracotta-seo-image-1920x1080.png?w=1600&h=900&fit=fill","image_local_path":"assets/case/2026-11-05/heimstaden.png"}
   ]
 }
