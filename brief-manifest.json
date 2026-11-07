@@ -1,15 +1,15 @@
 {
-  "date":"2026-11-05",
-  "title":"AI를 더 많이 쓸수록, 보안·비용·대체 경로를 함께 설계해야 한다",
-  "html":"archive/2026-11-05/index.html",
-  "published_url":"https://vidavida1970.github.io/MKT_Brief/archive/2026-11-05/index.html?kakao=20261105-ko-v1",
-  "og_image_path":"assets/og-2026-11-05-v1.png",
-  "og_image_url":"https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-05-v1.png",
+  "date":"2026-11-07",
+  "title":"AI 경쟁의 다음 단계는 답변이 아니라 계속 실행되는 업무다",
+  "html":"archive/2026-11-07/index.html",
+  "published_url":"https://vidavida1970.github.io/MKT_Brief/archive/2026-11-07/index.html?kakao=20261107-ko-v1",
+  "og_image_path":"assets/og-2026-11-07-v1.png",
+  "og_image_url":"https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-07-v1.png",
   "cases":[
-    {"name":"ChatGPT Search","region":"KR","source_url":"https://www.chosun.com/economy/tech_it/2026/11/04/JWVB6NRKBFHKXAEO2UUBTASYJI/","image_source_url":"https://www.chosun.com/resizer/v2/MQ4WEMBWGM2DOMTCGJQTGYRZMQ.jpg?auth=2eb7e8a24f4a25f64c767698f1fe569b30f0f74665882cc12bdc25ffe43b64bc&width=1200&height=630&smart=true","image_local_path":"assets/case/2026-11-05/chatgpt-search.jpg"},
-    {"name":"ChatGPT 장애","region":"KR","source_url":"https://www.hankyung.com/article/202611044353g","image_source_url":"https://img.hankyung.com/photo/202611/01.46301716.1.jpg","image_local_path":"assets/case/2026-11-05/chatgpt-outage.jpg"},
-    {"name":"동의대 × Google Korea","region":"KR","source_url":"https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261104.99099001299","image_source_url":"https://db.kookje.co.kr/news2000/photo/2026/1104/L20261104.99099001299i1.jpg?18","image_local_path":"assets/case/2026-11-05/gemini-academy.jpg"},
-    {"name":"판사들을 위한 AI","region":"KR","source_url":"https://www.youtube.com/watch?v=EoIJFGjDpOQ","image_source_url":"https://i.ytimg.com/vi/EoIJFGjDpOQ/maxresdefault.jpg","image_local_path":"assets/case/2026-11-05/judge-ai.jpg"},
-    {"name":"Heimstaden × OpenAI","region":"GLOBAL","source_url":"https://openai.com/ko-KR/index/heimstaden/","image_source_url":"https://images.ctfassets.net/kftzwdyauwt9/BJ4nJzcUdBNquMyox1gEz/27e1824d4f3565364c2a0aa36c28131d/heimstaden-bostad-terracotta-seo-image-1920x1080.png?w=1600&h=900&fit=fill","image_local_path":"assets/case/2026-11-05/heimstaden.jpg"}
+    {"name":"Google Vids × Gemini Omni","region":"KR","source_url":"https://www.aitimes.kr/news/articleView.html?idxno=42624","image_source_url":"https://cdn.aitimes.kr/news/thumbnail/202611/42624_64043_5913_v150.jpg","image_local_path":"assets/case/2026-11-07/google-video.jpg"},
+    {"name":"네이버애즈","region":"KR","source_url":"https://www.aitimes.kr/news/articleView.html?idxno=42601","image_source_url":"https://cdn.aitimes.kr/news/thumbnail/202611/42601_64013_294_v150.jpg","image_local_path":"assets/case/2026-11-07/naver-ad.jpg"},
+    {"name":"웹케시 경리나라 MCP","region":"KR","source_url":"https://www.aitimes.com/news/articleView.html?idxno=217027","image_source_url":"https://cdn.aitimes.com/news/photo/202611/217027_221213_1151.png","image_local_path":"assets/case/2026-11-07/finance-ai.png"},
+    {"name":"Meta Muse Spaces","region":"GLOBAL","source_url":"https://www.theverge.com/tech/1028871/meta-muse-ai-spaces","image_source_url":"https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=8.0752843063528%2C7.2758349524933%2C91.924715693647%2C59.9199899822&w=1200","image_local_path":"assets/case/2026-11-07/muse.png"},
+    {"name":"Perplexity Teammates","region":"GLOBAL","source_url":"https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/","image_source_url":"https://the-decoder.com/wp-content/uploads/2026/11/perplexity.png","image_local_path":"assets/case/2026-11-07/perplexity.png"}
   ]
 }
