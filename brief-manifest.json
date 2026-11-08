@@ -1,15 +1,16 @@
 {
-  "date":"2026-11-07",
-  "title":"AI 경쟁의 다음 단계는 답변이 아니라 계속 실행되는 업무다",
-  "html":"archive/2026-11-07/index.html",
-  "published_url":"https://vidavida1970.github.io/MKT_Brief/archive/2026-11-07/index.html?kakao=20261107-ko-v1",
-  "og_image_path":"assets/og-2026-11-07-v1.png",
-  "og_image_url":"https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-07-v1.png",
+  "date":"2026-11-09",
+  "title":"AI의 다음 경쟁은 답변이 아니라 권한을 가진 실행이다",
+  "html":"archive/2026-11-09/index.html",
+  "published_url":"https://vidavida1970.github.io/MKT_Brief/archive/2026-11-09/index.html?kakao=20261109-ko-v1",
+  "og_image_path":"assets/og-2026-11-09-v1.png",
+  "og_image_url":"https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-09-v1.png",
+  "vertical_image_path":"assets/brief-2026-11-09-1080x1920.png",
   "cases":[
-    {"name":"Google Vids × Gemini Omni","region":"KR","source_url":"https://www.aitimes.kr/news/articleView.html?idxno=42624","image_source_url":"https://cdn.aitimes.kr/news/thumbnail/202611/42624_64043_5913_v150.jpg","image_local_path":"assets/case/2026-11-07/google-video.jpg"},
-    {"name":"네이버애즈","region":"KR","source_url":"https://www.aitimes.kr/news/articleView.html?idxno=42601","image_source_url":"https://cdn.aitimes.kr/news/thumbnail/202611/42601_64013_294_v150.jpg","image_local_path":"assets/case/2026-11-07/naver-ad.jpg"},
-    {"name":"웹케시 경리나라 MCP","region":"KR","source_url":"https://www.aitimes.com/news/articleView.html?idxno=217027","image_source_url":"https://cdn.aitimes.com/news/photo/202611/217027_221213_1151.png","image_local_path":"assets/case/2026-11-07/finance-ai.png"},
-    {"name":"Meta Muse Spaces","region":"GLOBAL","source_url":"https://www.theverge.com/tech/1028871/meta-muse-ai-spaces","image_source_url":"https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=8.0752843063528%2C7.2758349524933%2C91.924715693647%2C59.9199899822&w=1200","image_local_path":"assets/case/2026-11-07/muse.png"},
-    {"name":"Perplexity Teammates","region":"GLOBAL","source_url":"https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/","image_source_url":"https://the-decoder.com/wp-content/uploads/2026/11/perplexity.png","image_local_path":"assets/case/2026-11-07/perplexity.png"}
+    {"name":"Claude Personal Finance","region":"GLOBAL","source_url":"https://claude.com/resources/articles/introducing-personal-finance-in-claude","image_source_url":"https://claude.com/resources/articles/introducing-personal-finance-in-claude/opengraph-image/og","image_local_path":"assets/case/2026-11-09/finance.png"},
+    {"name":"국내 AI 앱 사용 확산","region":"KR","source_url":"https://biz.chosun.com/it-science/ict/2026/11/08/3SEWDEBSTZAMTBD2YQ5JNTYU7Y/","image_source_url":"https://biz.chosun.com/resizer/v2/2NZ42X4FGRLZTC3UMSAA5YDNUU.jpg?auth=0693a0eb579c20d57cfba577d5a8d88239d03abbc2ee612dca530ec8d56ea44b&width=1200&height=630&smart=true","image_local_path":"assets/case/2026-11-09/users.jpg"},
+    {"name":"KT AI 토큰 요금제","region":"KR","source_url":"https://www.hankyung.com/article/202610317619i","image_source_url":"https://img.hankyung.com/photo/202610/01.46349643.1.png","image_local_path":"assets/case/2026-11-09/token.jpg"},
+    {"name":"한국 AI 데이터센터 유치 논쟁","region":"KR","source_url":"https://www.khan.co.kr/article/202611081638001","image_source_url":"https://img.khan.co.kr/news/2026/11/08/news-p.v1.20261108.c40f0a8226e24d49b954c83d87a237ab_P1.jpg","image_local_path":"assets/case/2026-11-09/datacenter.jpg"},
+    {"name":"UNIST EchoTrace","region":"KR","source_url":"https://www.dongascience.com/ko/news/80759","image_source_url":"https://image.dongascience.com/Photo/2026/11/17941021248037.png","image_local_path":"assets/case/2026-11-09/bias.png"}
   ]
 }
