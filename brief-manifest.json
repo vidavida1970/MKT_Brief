@@ -1,16 +1,16 @@
 {
-  "date":"2026-11-09",
-  "title":"AI의 다음 경쟁은 답변이 아니라 권한을 가진 실행이다",
-  "html":"archive/2026-11-09/index.html",
-  "published_url":"https://vidavida1970.github.io/MKT_Brief/archive/2026-11-09/index.html?kakao=20261109-ko-v1",
-  "og_image_path":"assets/og-2026-11-09-v1.png",
-  "og_image_url":"https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-09-v1.png",
-  "vertical_image_path":"assets/brief-2026-11-09-1080x1920.png",
-  "cases":[
-    {"name":"Claude Personal Finance","region":"GLOBAL","source_url":"https://claude.com/resources/articles/introducing-personal-finance-in-claude","image_source_url":"https://claude.com/resources/articles/introducing-personal-finance-in-claude/opengraph-image/og","image_local_path":"assets/case/2026-11-09/finance.png"},
-    {"name":"국내 AI 앱 사용 확산","region":"KR","source_url":"https://biz.chosun.com/it-science/ict/2026/11/08/3SEWDEBSTZAMTBD2YQ5JNTYU7Y/","image_source_url":"https://biz.chosun.com/resizer/v2/2NZ42X4FGRLZTC3UMSAA5YDNUU.jpg?auth=0693a0eb579c20d57cfba577d5a8d88239d03abbc2ee612dca530ec8d56ea44b&width=1200&height=630&smart=true","image_local_path":"assets/case/2026-11-09/users.jpg"},
-    {"name":"KT AI 토큰 요금제","region":"KR","source_url":"https://www.hankyung.com/article/202610317619i","image_source_url":"https://img.hankyung.com/photo/202610/01.46349643.1.png","image_local_path":"assets/case/2026-11-09/token.jpg"},
-    {"name":"한국 AI 데이터센터 유치 논쟁","region":"KR","source_url":"https://www.khan.co.kr/article/202611081638001","image_source_url":"https://img.khan.co.kr/news/2026/11/08/news-p.v1.20261108.c40f0a8226e24d49b954c83d87a237ab_P1.jpg","image_local_path":"assets/case/2026-11-09/datacenter.jpg"},
-    {"name":"UNIST EchoTrace","region":"KR","source_url":"https://www.dongascience.com/ko/news/80759","image_source_url":"https://image.dongascience.com/Photo/2026/11/17941021248037.png","image_local_path":"assets/case/2026-11-09/bias.png"}
+  "date": "2026-11-10",
+  "title": "AI의 진짜 경쟁력은 모델이 아니라 운영 조건이다",
+  "html": "archive/2026-11-10/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-10/index.html?kakao=20261110-ko-v1",
+  "og_image_path": "assets/og-2026-11-10-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-10-v1.png",
+  "vertical_image_path": "assets/brief-2026-11-10-1080x1920.png",
+  "cases": [
+    {"name":"앤트로픽 클로드 개인정보 유출 신고","region":"KR","source_url":"https://www.yna.co.kr/amp/view/AKR20261109152000017","image_source_url":"https://img8.yna.co.kr/etc/inner/KR/2026/11/09/AKR20261109152000017_01_i_P4.jpg","image_local_path":"assets/case/2026-11-10/yna_privacy.jpg"},
+    {"name":"Google TPU 8세대 확장","region":"GLOBAL","source_url":"https://www.joongang.co.kr/article/25477073","image_source_url":"https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/09/ce479a4f-1bb8-4cf0-a4ee-338de1df7d6d.jpg","image_local_path":"assets/case/2026-11-10/joongang_tpu.jpg"},
+    {"name":"구미 초대형 AI 데이터센터 프로젝트","region":"KR","source_url":"https://www.hankyung.com/article/2026110957881","image_source_url":"https://img.hankyung.com/photo/202611/AA.46365970.1.jpg","image_local_path":"assets/case/2026-11-10/hankyung_gumi.jpg"},
+    {"name":"AI 규제·금리 우려와 반도체주 변동성","region":"KR","source_url":"https://news.kbs.co.kr/news/pc/view/view.do?ncd=8707099","image_source_url":"http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/11/09/290_8707099.jpg","image_local_path":"assets/case/2026-11-10/kbs_chip.jpg"},
+    {"name":"AI 음성 복제 기업 사기","region":"KR","source_url":"https://www.safetimes.co.kr/news/articleView.html?idxno=247306","image_source_url":"https://cdn.safetimes.co.kr/news/thumbnail/202611/247306_158283_511_v150.jpg","image_local_path":"assets/case/2026-11-10/safetimes_voice.jpg"}
   ]
 }
