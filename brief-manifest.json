@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-10",
-  "title": "AI의 진짜 경쟁력은 모델이 아니라 운영 조건이다",
-  "html": "archive/2026-11-10/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-10/index.html?kakao=20261110-ko-v1",
-  "og_image_path": "assets/og-2026-11-10-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-10-v1.png",
-  "vertical_image_path": "assets/brief-2026-11-10-1080x1920.png",
+  "date": "2026-11-11",
+  "title": "AI 확장은 빨라도, 데이터 경계와 책임 설계가 먼저다",
+  "html": "archive/2026-11-11/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-11/index.html?kakao=20261111-ko-v1",
+  "og_image_path": "assets/og-2026-11-11-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-11-v1.png",
+  "vertical_image_path": "assets/brief-2026-11-11-1080x1920.png",
   "cases": [
-    {"name":"앤트로픽 클로드 개인정보 유출 신고","region":"KR","source_url":"https://www.yna.co.kr/amp/view/AKR20261109152000017","image_source_url":"https://img8.yna.co.kr/etc/inner/KR/2026/11/09/AKR20261109152000017_01_i_P4.jpg","image_local_path":"assets/case/2026-11-10/yna_privacy.jpg"},
-    {"name":"Google TPU 8세대 확장","region":"GLOBAL","source_url":"https://www.joongang.co.kr/article/25477073","image_source_url":"https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/09/ce479a4f-1bb8-4cf0-a4ee-338de1df7d6d.jpg","image_local_path":"assets/case/2026-11-10/joongang_tpu.jpg"},
-    {"name":"구미 초대형 AI 데이터센터 프로젝트","region":"KR","source_url":"https://www.hankyung.com/article/2026110957881","image_source_url":"https://img.hankyung.com/photo/202611/AA.46365970.1.jpg","image_local_path":"assets/case/2026-11-10/hankyung_gumi.jpg"},
-    {"name":"AI 규제·금리 우려와 반도체주 변동성","region":"KR","source_url":"https://news.kbs.co.kr/news/pc/view/view.do?ncd=8707099","image_source_url":"http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/11/09/290_8707099.jpg","image_local_path":"assets/case/2026-11-10/kbs_chip.jpg"},
-    {"name":"AI 음성 복제 기업 사기","region":"KR","source_url":"https://www.safetimes.co.kr/news/articleView.html?idxno=247306","image_source_url":"https://cdn.safetimes.co.kr/news/thumbnail/202611/247306_158283_511_v150.jpg","image_local_path":"assets/case/2026-11-10/safetimes_voice.jpg"}
+    {"name":"조달청 AI 개발 중 평가위원 얼굴사진 유출","region":"KR","source_url":"https://www.ddaily.co.kr/page/view/2026111010143660767","image_source_url":"https://www.ddaily.co.kr/photos/2026/11/10/2026111010142530560_l.png","image_local_path":"assets/case/2026-11-11/ddaily_privacy.png"},
+    {"name":"국내 Claude 앱 사용자 확산","region":"KR","source_url":"https://www.donga.com/news/Economy/article/all/20261110/134997381/2","image_source_url":"https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/10/134997301.3.jpg","image_local_path":"assets/case/2026-11-11/donga_claude.jpg"},
+    {"name":"AI 버블과 투자 시나리오","region":"KR","source_url":"https://www.hankyung.com/article/202611106951i","image_source_url":"https://img.hankyung.com/photo/202611/01.46372140.1.jpg","image_local_path":"assets/case/2026-11-11/hankyung_bubble.jpg"},
+    {"name":"Google Gemini 4 Carbon·Robotics 2.5","region":"GLOBAL","source_url":"https://blog.google/intl/ko-kr/company-news/technology/gemini-4-carbon-now-available-kr/","image_source_url":"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg","image_local_path":"assets/case/2026-11-11/google_carbon.jpg"},
+    {"name":"미국 8개 주의 OpenAI 소송","region":"GLOBAL","source_url":"https://news.sbs.co.kr/english/article.do?news_id=N1008798587","image_source_url":"https://img.sbs.co.kr/newimg/news/20260729/202206983_1280.jpg","image_local_path":"assets/case/2026-11-11/sbs_openai.jpg"}
   ]
 }
