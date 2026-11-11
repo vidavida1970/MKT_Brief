@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-11",
-  "title": "AI 확장은 빨라도, 데이터 경계와 책임 설계가 먼저다",
-  "html": "archive/2026-11-11/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-11/index.html?kakao=20261111-ko-v1",
-  "og_image_path": "assets/og-2026-11-11-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-11-v1.png",
-  "vertical_image_path": "assets/brief-2026-11-11-1080x1920.png",
+  "date": "2026-11-12",
+  "title": "AI가 업무 플랫폼이 될수록, 연결 보안이 경쟁력이 된다",
+  "html": "archive/2026-11-12/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-12/index.html?kakao=20261112-ko-v1",
+  "og_image_path": "assets/og-2026-11-12-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-12-v1.png",
+  "vertical_image_path": "assets/brief-2026-11-12-1080x1920.png",
   "cases": [
-    {"name":"조달청 AI 개발 중 평가위원 얼굴사진 유출","region":"KR","source_url":"https://www.ddaily.co.kr/page/view/2026111010143660767","image_source_url":"https://www.ddaily.co.kr/photos/2026/11/10/2026111010142530560_l.png","image_local_path":"assets/case/2026-11-11/ddaily_privacy.png"},
-    {"name":"국내 Claude 앱 사용자 확산","region":"KR","source_url":"https://www.donga.com/news/Economy/article/all/20261110/134997381/2","image_source_url":"https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/10/134997301.3.jpg","image_local_path":"assets/case/2026-11-11/donga_claude.jpg"},
-    {"name":"AI 버블과 투자 시나리오","region":"KR","source_url":"https://www.hankyung.com/article/202611106951i","image_source_url":"https://img.hankyung.com/photo/202611/01.46372140.1.jpg","image_local_path":"assets/case/2026-11-11/hankyung_bubble.jpg"},
-    {"name":"Google Gemini 4 Carbon·Robotics 2.5","region":"GLOBAL","source_url":"https://blog.google/intl/ko-kr/company-news/technology/gemini-4-carbon-now-available-kr/","image_source_url":"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg","image_local_path":"assets/case/2026-11-11/google_carbon.jpg"},
-    {"name":"미국 8개 주의 OpenAI 소송","region":"GLOBAL","source_url":"https://news.sbs.co.kr/english/article.do?news_id=N1008798587","image_source_url":"https://img.sbs.co.kr/newimg/news/20260729/202206983_1280.jpg","image_local_path":"assets/case/2026-11-11/sbs_openai.jpg"}
+    {"name":"비즈니스 인 챗GPT","region":"KR","source_url":"https://www.newsis.com/view/NISX20261111_0003863388","image_source_url":"https://img1.newsis.com/2026/11/11/NISI20261111_0002288673_web.jpg","image_local_path":"assets/case/2026-11-12/openai_business.jpg"},
+    {"name":"업무용 AI 연결 서버 외부 노출","region":"KR","source_url":"https://www.donga.com/news/Economy/article/all/20261111/135002967/2","image_source_url":"https://dimg.donga.com/wps/ECONOMY/IMAGE/2026/11/11/135003135.2.jpg","image_local_path":"assets/case/2026-11-12/donga_exposed.jpg"},
+    {"name":"한국 디지털·AI 경쟁력 10위","region":"KR","source_url":"https://www.korea.kr/news/policyNewsView.do?newsId=148975521&pWise=sub&pWiseSub=R3","image_source_url":"https://www.korea.kr/newsWeb/resources/attaches/2026.11/11/6089bc858f2e7cdd38a9d01cc17f9351.jpg","image_local_path":"assets/case/2026-11-12/korea_rank.jpg"},
+    {"name":"AI 스타트업 유니콘 육성 정책","region":"KR","source_url":"https://www.korea.kr/news/policyNewsView.do?newsId=148975483&pWise=sub&pWiseSub=R3","image_source_url":"https://www.korea.kr/newsWeb/resources/attaches/2026.11/11/6dba6ff404e59039f7263850ea690ed6.jpg","image_local_path":"assets/case/2026-11-12/korea_startup.jpg"},
+    {"name":"Qualcomm·HUMAIN 온디바이스 AI PC","region":"GLOBAL","source_url":"https://www.qualcomm.com/news/releases/2026/08/qualcomm-and-humain-unveil-horizon-ultra-ai-pc-at-leap-2026--bri","image_source_url":"https://s7d1.scene7.com/is/image/dmqualcommprod/SnapdragonX2Elite?fmt=jpg&wid=1600","image_local_path":"assets/case/2026-11-12/qualcomm_ondevice.jpg"}
   ]
 }
