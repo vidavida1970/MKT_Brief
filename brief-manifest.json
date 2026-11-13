@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-12",
-  "title": "AI가 업무 플랫폼이 될수록, 연결 보안이 경쟁력이 된다",
-  "html": "archive/2026-11-12/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-12/index.html?kakao=20261112-ko-v1",
-  "og_image_path": "assets/og-2026-11-12-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-12-v1.png",
-  "vertical_image_path": "assets/brief-2026-11-12-1080x1920.png",
+  "date": "2026-11-13",
+  "title": "AI가 일을 대신할수록, 맥락과 승인선이 중요하다",
+  "html": "archive/2026-11-13/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-13/index.html?kakao=20261113-ko-v1",
+  "og_image_path": "assets/og-2026-11-13-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-13-v1.png",
+  "vertical_image_path": "assets/brief-2026-11-13-1080x1920.png",
   "cases": [
-    {"name":"비즈니스 인 챗GPT","region":"KR","source_url":"https://www.newsis.com/view/NISX20261111_0003863388","image_source_url":"https://img1.newsis.com/2026/11/11/NISI20261111_0002288673_web.jpg","image_local_path":"assets/case/2026-11-12/openai_business.jpg"},
-    {"name":"업무용 AI 연결 서버 외부 노출","region":"KR","source_url":"https://www.donga.com/news/Economy/article/all/20261111/135002967/2","image_source_url":"https://dimg.donga.com/wps/ECONOMY/IMAGE/2026/11/11/135003135.2.jpg","image_local_path":"assets/case/2026-11-12/donga_exposed.jpg"},
-    {"name":"한국 디지털·AI 경쟁력 10위","region":"KR","source_url":"https://www.korea.kr/news/policyNewsView.do?newsId=148975521&pWise=sub&pWiseSub=R3","image_source_url":"https://www.korea.kr/newsWeb/resources/attaches/2026.11/11/6089bc858f2e7cdd38a9d01cc17f9351.jpg","image_local_path":"assets/case/2026-11-12/korea_rank.jpg"},
-    {"name":"AI 스타트업 유니콘 육성 정책","region":"KR","source_url":"https://www.korea.kr/news/policyNewsView.do?newsId=148975483&pWise=sub&pWiseSub=R3","image_source_url":"https://www.korea.kr/newsWeb/resources/attaches/2026.11/11/6dba6ff404e59039f7263850ea690ed6.jpg","image_local_path":"assets/case/2026-11-12/korea_startup.jpg"},
-    {"name":"Qualcomm·HUMAIN 온디바이스 AI PC","region":"GLOBAL","source_url":"https://www.qualcomm.com/news/releases/2026/08/qualcomm-and-humain-unveil-horizon-ultra-ai-pc-at-leap-2026--bri","image_source_url":"https://s7d1.scene7.com/is/image/dmqualcommprod/SnapdragonX2Elite?fmt=jpg&wid=1600","image_local_path":"assets/case/2026-11-12/qualcomm_ondevice.jpg"}
+    {"name":"SK하이닉스 기업용 ChatGPT 파일럿","region":"KR","source_url":"https://news.mtn.co.kr/article/2026111214044514208","image_source_url":"https://files.mtn.co.kr/article-asset/2026/11/12/41a0e4fb-206b-41d4-a59f-ae5811b4a415.jpg","image_local_path":"assets/case/2026-11-13/skh_chatgpt.jpg"},
+    {"name":"삼성 AI 안경과 Gemini","region":"KR","source_url":"https://www.yna.co.kr/view/AKR20261112140300017","image_source_url":"https://img6.yna.co.kr/photo/yna/YH/2026/11/13/PYH2026111301110001300_P4.jpg","image_local_path":"assets/case/2026-11-13/samsung_ai_glasses.jpg"},
+    {"name":"OpenAI 음성모드 전환","region":"KR","source_url":"https://www.digitaltoday.co.kr/news/articleView.html?idxno=714848","image_source_url":"https://cdn.digitaltoday.co.kr/news/photo/202611/714848_662182_2032.png","image_local_path":"assets/case/2026-11-13/openai_voice.jpg"},
+    {"name":"Claude for Manufacturing","region":"GLOBAL","source_url":"https://claude.com/de/resources/articles/claude-for-manufacturing","image_source_url":"https://claude.com/de/resources/articles/claude-for-manufacturing/opengraph-image/og","image_local_path":"assets/case/2026-11-13/claude_manufacturing.jpg"},
+    {"name":"Gemini Decision 1","region":"GLOBAL","source_url":"https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/","image_source_url":"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png","image_local_path":"assets/case/2026-11-13/gemini_decisions.jpg"}
   ]
 }
