@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-13",
-  "title": "AI가 일을 대신할수록, 맥락과 승인선이 중요하다",
-  "html": "archive/2026-11-13/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-13/index.html?kakao=20261113-ko-v1",
-  "og_image_path": "assets/og-2026-11-13-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-13-v1.png",
-  "vertical_image_path": "assets/brief-2026-11-13-1080x1920.png",
-  "cases": [
-    {"name":"SK하이닉스 기업용 ChatGPT 파일럿","region":"KR","source_url":"https://news.mtn.co.kr/article/2026111214044514208","image_source_url":"https://files.mtn.co.kr/article-asset/2026/11/12/41a0e4fb-206b-41d4-a59f-ae5811b4a415.jpg","image_local_path":"assets/case/2026-11-13/skh_chatgpt.jpg"},
-    {"name":"삼성 AI 안경과 Gemini","region":"KR","source_url":"https://www.yna.co.kr/view/AKR20261112140300017","image_source_url":"https://img6.yna.co.kr/photo/yna/YH/2026/11/13/PYH2026111301110001300_P4.jpg","image_local_path":"assets/case/2026-11-13/samsung_ai_glasses.jpg"},
-    {"name":"OpenAI 음성모드 전환","region":"KR","source_url":"https://www.digitaltoday.co.kr/news/articleView.html?idxno=714848","image_source_url":"https://cdn.digitaltoday.co.kr/news/photo/202611/714848_662182_2032.png","image_local_path":"assets/case/2026-11-13/openai_voice.jpg"},
-    {"name":"Claude for Manufacturing","region":"GLOBAL","source_url":"https://claude.com/de/resources/articles/claude-for-manufacturing","image_source_url":"https://claude.com/de/resources/articles/claude-for-manufacturing/opengraph-image/og","image_local_path":"assets/case/2026-11-13/claude_manufacturing.jpg"},
-    {"name":"Gemini Decision 1","region":"GLOBAL","source_url":"https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/","image_source_url":"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png","image_local_path":"assets/case/2026-11-13/gemini_decisions.jpg"}
+  "date":"2026-11-16",
+  "title":"AI에 권한을 줄수록, 검수와 공급망이 중요하다",
+  "html":"archive/2026-11-16/index.html",
+  "published_url":"https://vidavida1970.github.io/MKT_Brief/archive/2026-11-16/index.html?kakao=20261116-ko-v1",
+  "og_image_path":"assets/og-2026-11-16-v1.png",
+  "og_image_url":"https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-16-v1.png",
+  "vertical_image_path":"assets/brief-2026-11-16-1080x1920.png",
+  "cases":[
+    {"name":"세무사 시험 AI 부정행위 자수","region":"KR","source_url":"https://www.joongang.co.kr/article/25478753","image_source_url":"https://pds.joongang.co.kr/news/FbMetaImage/202611/8e08433d-9e0e-4a33-ab64-6b7b4ec872eb.jpg","image_local_path":"assets/case/2026-11-16/tax_ai_cheating.jpg"},
+    {"name":"SKT AX 챌린지","region":"KR","source_url":"https://www.ddaily.co.kr/m/page/view/2026111501482054711","image_source_url":"https://www.ddaily.co.kr/photos/2026/11/15/2026111501532599316_l.jpg","image_local_path":"assets/case/2026-11-16/skt_ax_challenge.jpg"},
+    {"name":"더현대 하이, 앱스 인 챗GPT","region":"KR","source_url":"https://www.newsis.com/view/NISX20261115_0003868534","image_source_url":"https://img1.newsis.com/2026/11/15/NISI20261115_0002292220_web.jpg","image_local_path":"assets/case/2026-11-16/hyundai_chatgpt_shopping.jpg"},
+    {"name":"GPT 기반 AI 비서 닷츠","region":"KR","source_url":"https://www.yna.co.kr/view/AKR20261114013700091","image_source_url":"https://img4.yna.co.kr/photo/etc/gt/2026/09/30/PGT20260930065801009_P4.jpg","image_local_path":"assets/case/2026-11-16/dots_ai_assistant.jpg"},
+    {"name":"Cursor 보안 사고와 악성 Claude Code 확장","region":"GLOBAL","source_url":"https://cursor.com/blog/security-incident-update","image_source_url":"https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png","image_local_path":"assets/case/2026-11-16/cursor_security.jpg"}
   ]
 }
