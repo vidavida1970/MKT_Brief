@@ -1,19 +1,5 @@
 # MKT_Brief
 
-- [2026.11.16 · AI에 권한을 줄수록, 검수와 공급망이 중요하다](archive/2026-11-16/index.html)
-
-- [2026.11.13 · AI가 일을 대신할수록, 맥락과 승인선이 중요하다](archive/2026-11-13/index.html)
-
-- [2026.11.12 · AI가 업무 플랫폼이 될수록, 연결 보안이 경쟁력이 된다](archive/2026-11-12/index.html)
-
-- [2026.11.11 · AI 확장은 빨라도, 데이터 경계와 책임 설계가 먼저다](archive/2026-11-11/index.html)
-- [2026.11.10 · AI의 진짜 경쟁력은 모델이 아니라 운영 조건이다](archive/2026-11-10/index.html)
-- [2026.11.09 · AI의 다음 경쟁은 답변이 아니라 권한을 가진 실행이다](archive/2026-11-09/index.html)
-- [2026.11.07 · AI 경쟁의 다음 단계는 답변이 아니라 계속 실행되는 업무다](archive/2026-11-07/index.html)
-- [2026.11.06 · AI 마케팅의 다음 경쟁은 생성이 아니라 연결이다](archive/2026-11-06/index.html)
-- [2026.11.05 · AI를 더 많이 쓸수록, 보안·비용·대체 경로를 함께 설계해야 한다](archive/2026-11-05/index.html)
-- [2026.11.04 · AI 경쟁의 승부처는 모델 점수가 아니라, 신뢰가 쌓이는 업무 접점이다](archive/2026-11-04/index.html)
-- [2026.11.03 · AI 도입의 다음 단계는 모델보다 운영 구조를 설계하는 일이다](archive/2026-11-03/index.html)
-- [2026.11.02 · AI를 잘 쓰는 조직은 한도·검수·책임을 먼저 설계한다](archive/2026-11-02/index.html)
-- [2026.10.30 · AI는 성능을 넘어, 실제 업무에 쓰이는 구조를 만든다](archive/2026-10-30/index.html)
-- [2026.10.29 · AI는 기능이 아니라, 자료·권한·검수의 흐름으로 설계된다](archive/2026-10-29/index.html)
+- [2026.11.17 AI Daily Marketing Brief](archive/2026-11-17/index.html)
+- [2026.11.16 AI Daily Marketing Brief](archive/2026-11-16/index.html)
+- [2026.11.13 AI Daily Marketing Brief](archive/2026-11-13/index.html)
