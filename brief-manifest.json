@@ -1,46 +1,46 @@
 {
-  "date": "2026-11-17",
-  "title": "AI가 직접 참여할수록, 품질·공정성·안전을 설계하자",
-  "html": "archive/2026-11-17/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-17/index.html?kakao=20261117-ko-v1",
-  "og_image_path": "assets/og-2026-11-17-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-17-v1.png",
-  "vertical_image_path": "assets/brief-2026-11-17-1080x1920.png",
+  "date": "2026-11-18",
+  "title": "AI가 실행할수록, 비용·권한·공정성을 설계하자",
+  "html": "archive/2026-11-18/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-18/index.html?kakao=20261118-ko-v1",
+  "og_image_path": "assets/og-2026-11-18-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-18-v1.png",
+  "vertical_image_path": "assets/brief-2026-11-18-1080x1920.png",
   "cases": [
     {
-      "name": "Claude Meetings",
+      "name": "Claude Linked Billing",
       "region": "GLOBAL",
-      "source_url": "https://claude.com/resources/articles/claude-meetings",
-      "image_source_url": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/69433663e33a2d0875ac43c6_calendar.png",
-      "image_local_path": "assets/case/2026-11-17/claude_meetings.jpg"
+      "source_url": "https://platform.claude.com/docs/en/manage-claude/oauth-apps/organization-billing-connections",
+      "image_source_url": "https://claude.com/es/resources/articles/linked-billing-on-claude-platform/opengraph-image/og",
+      "image_local_path": "assets/case/2026-11-18/claude_linked_billing.png"
     },
     {
-      "name": "Gemini 4 Hydrogen",
-      "region": "GLOBAL",
-      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "image_source_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini4Hydrogen-01-Studio_Apt-fu.width-1200.format-webp.webp",
-      "image_local_path": "assets/case/2026-11-17/gemini_hydrogen.jpg"
-    },
-    {
-      "name": "세무사시험 AI 부정행위 후속",
+      "name": "GS Energy AI Hub",
       "region": "KR",
-      "source_url": "https://www.joongang.co.kr/article/25478915",
-      "image_source_url": "https://pds.joongang.co.kr/news/FbMetaImage/202611/8e08433d-9e0e-4a33-ab64-6b7b4ec872eb.jpg",
-      "image_local_path": "assets/case/2026-11-17/exam_ai_cheating.jpg"
+      "source_url": "https://aws.amazon.com/ko/blogs/tech/gs-energy-smus-agentcore/",
+      "image_source_url": "https://d2908q01vomqb2.cloudfront.net/2a459380709e2fe4ac2dae5733c73225ff6cfee1/2026/10/06/%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B701_%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8E%E1%85%A6-%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A5%E1%84%8B%E1%85%AA-%E1%84%83%E1%85%A1%E1%84%89%E1%85%A5%E1%86%BA-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%A8.png",
+      "image_local_path": "assets/case/2026-11-18/gs_energy.png"
     },
     {
-      "name": "데이터다이빙 Gemini Enterprise 교육 파트너",
+      "name": "Korean workplace AI",
       "region": "KR",
-      "source_url": "https://www.etnews.com/20261116000423",
-      "image_source_url": "https://img.exc.co.kr/academy/2026/sesac/AI/images/AI_H_05.jpg",
-      "image_local_path": "assets/case/2026-11-17/data_diving.jpg"
+      "source_url": "https://www.hankyung.com/article/202611171638i",
+      "image_source_url": "https://img.hankyung.com/photo/202611/99.44958872.1.jpg",
+      "image_local_path": "assets/case/2026-11-18/korean_ai_productivity.jpg"
     },
     {
-      "name": "뉴엔AI 퀘타아이 MCP",
+      "name": "Businesses in ChatGPT",
       "region": "KR",
-      "source_url": "https://www.hankyung.com/article/202611169988g",
-      "image_source_url": "https://www.hankyung.com/article/202611169988g",
-      "image_local_path": "assets/case/2026-11-17/marketing_mcp.jpg"
+      "source_url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445060",
+      "image_source_url": "https://cdn.news.einfomax.co.kr/news/thumbnail/202611/4445060_357229_72_v150.jpg",
+      "image_local_path": "assets/case/2026-11-18/chatgpt_business_hub.jpg"
+    },
+    {
+      "name": "AI exam-cheating response",
+      "region": "KR",
+      "source_url": "https://www.joongang.co.kr/article/25479215",
+      "image_source_url": "https://pds.joongang.co.kr/news/FbMetaImage/202611/f3ede6f3-03c2-4604-af17-66b296e8e1ce.jpg",
+      "image_local_path": "assets/case/2026-11-18/ai_exam_cheating.jpg"
     }
   ]
 }
