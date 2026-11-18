@@ -1,46 +1,46 @@
 {
-  "date": "2026-11-18",
-  "title": "AI가 실행할수록, 비용·권한·공정성을 설계하자",
-  "html": "archive/2026-11-18/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-18/index.html?kakao=20261118-ko-v1",
-  "og_image_path": "assets/og-2026-11-18-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-18-v1.png",
-  "vertical_image_path": "assets/brief-2026-11-18-1080x1920.png",
+  "date": "2026-11-19",
+  "title": "AI가 실행할수록, 검증·권한·성과를 먼저 설계하자",
+  "html": "archive/2026-11-19/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-19/index.html?kakao=20261119-ko-v1",
+  "og_image_path": "assets/og-2026-11-19-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-19-v1.png",
+  "vertical_image_path": "assets/brief-2026-11-19-1080x1920.png",
   "cases": [
     {
-      "name": "Claude Linked Billing",
+      "name": "OpenAI Astra for Law",
       "region": "GLOBAL",
-      "source_url": "https://platform.claude.com/docs/en/manage-claude/oauth-apps/organization-billing-connections",
-      "image_source_url": "https://claude.com/es/resources/articles/linked-billing-on-claude-platform/opengraph-image/og",
-      "image_local_path": "assets/case/2026-11-18/claude_linked_billing.png"
+      "source_url": "https://openai.com/ko-KR/index/astra-law-6-2/",
+      "image_source_url": "https://images.ctfassets.net/kftzwdyauwt9/3MwSwa1GcJHdJGeOy7u0LZ/7ecfaba7da6555bc46c1e85f50c13bdb/astra-law-legal-intelligence-social-smooth.png?w=1600&h=900&fit=fill",
+      "image_local_path": "assets/case/2026-11-19/astra_law.png"
     },
     {
-      "name": "GS Energy AI Hub",
-      "region": "KR",
-      "source_url": "https://aws.amazon.com/ko/blogs/tech/gs-energy-smus-agentcore/",
-      "image_source_url": "https://d2908q01vomqb2.cloudfront.net/2a459380709e2fe4ac2dae5733c73225ff6cfee1/2026/10/06/%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B701_%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8E%E1%85%A6-%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A5%E1%84%8B%E1%85%AA-%E1%84%83%E1%85%A1%E1%84%89%E1%85%A5%E1%86%BA-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%A8.png",
-      "image_local_path": "assets/case/2026-11-18/gs_energy.png"
+      "name": "Anthropic IPO",
+      "region": "GLOBAL",
+      "source_url": "https://www.anthropic.com/news/roadshow-launch",
+      "image_source_url": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
+      "image_local_path": "assets/case/2026-11-19/anthropic_ipo.jpg"
     },
     {
-      "name": "Korean workplace AI",
+      "name": "Gemini Tasks Korea",
       "region": "KR",
-      "source_url": "https://www.hankyung.com/article/202611171638i",
-      "image_source_url": "https://img.hankyung.com/photo/202611/99.44958872.1.jpg",
-      "image_local_path": "assets/case/2026-11-18/korean_ai_productivity.jpg"
+      "source_url": "https://blog.google/intl/ko-kr/company-news/technology/tasks-in-gemini-free-new-features-kr/",
+      "image_source_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gugeul_jeminai_taeseukeuTask.width-1300.png",
+      "image_local_path": "assets/case/2026-11-19/gemini_tasks.png"
     },
     {
-      "name": "Businesses in ChatGPT",
+      "name": "Inha University Hospital Gemini",
       "region": "KR",
-      "source_url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445060",
-      "image_source_url": "https://cdn.news.einfomax.co.kr/news/thumbnail/202611/4445060_357229_72_v150.jpg",
-      "image_local_path": "assets/case/2026-11-18/chatgpt_business_hub.jpg"
+      "source_url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044653",
+      "image_source_url": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044653_3048652_454_v150.jpg",
+      "image_local_path": "assets/case/2026-11-19/inha_gemini.jpg"
     },
     {
-      "name": "AI exam-cheating response",
+      "name": "AI exam cheating response",
       "region": "KR",
-      "source_url": "https://www.joongang.co.kr/article/25479215",
-      "image_source_url": "https://pds.joongang.co.kr/news/FbMetaImage/202611/f3ede6f3-03c2-4604-af17-66b296e8e1ce.jpg",
-      "image_local_path": "assets/case/2026-11-18/ai_exam_cheating.jpg"
+      "source_url": "https://www.yna.co.kr/view/AKR20261118115300530",
+      "image_source_url": "https://img6.yna.co.kr/photo/yna/YH/2026/10/13/PYH2026101308410001300_P4.jpg",
+      "image_local_path": "assets/case/2026-11-19/ai_exam.jpg"
     }
   ]
 }
