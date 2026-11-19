@@ -1,46 +1,46 @@
 {
-  "date": "2026-11-19",
-  "title": "AI가 실행할수록, 검증·권한·성과를 먼저 설계하자",
-  "html": "archive/2026-11-19/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-19/index.html?kakao=20261119-ko-v1",
-  "og_image_path": "assets/og-2026-11-19-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-19-v1.png",
-  "vertical_image_path": "assets/brief-2026-11-19-1080x1920.png",
+  "date": "2026-11-20",
+  "title": "말로 시키는 AI, 실행 권한부터 설계하자",
+  "html": "archive/2026-11-20/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-20/index.html?kakao=20261120-ko-v1",
+  "og_image_path": "assets/og-2026-11-20-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-20-v1.png",
+  "vertical_image_path": "assets/brief-2026-11-20-1080x1920.png",
   "cases": [
     {
-      "name": "OpenAI Astra for Law",
+      "name": "Gemini on Mac",
       "region": "GLOBAL",
-      "source_url": "https://openai.com/ko-KR/index/astra-law-6-2/",
-      "image_source_url": "https://images.ctfassets.net/kftzwdyauwt9/3MwSwa1GcJHdJGeOy7u0LZ/7ecfaba7da6555bc46c1e85f50c13bdb/astra-law-legal-intelligence-social-smooth.png?w=1600&h=900&fit=fill",
-      "image_local_path": "assets/case/2026-11-19/astra_law.png"
+      "source_url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&strip=all&crop=0,0.0069764197014024,100,99.986047160597&w=1200",
+      "image_local_path": "assets/case/2026-11-20/gemini_mac.jpg"
     },
     {
-      "name": "Anthropic IPO",
-      "region": "GLOBAL",
-      "source_url": "https://www.anthropic.com/news/roadshow-launch",
-      "image_source_url": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
-      "image_local_path": "assets/case/2026-11-19/anthropic_ipo.jpg"
-    },
-    {
-      "name": "Gemini Tasks Korea",
+      "name": "Ubion AI work redesign",
       "region": "KR",
-      "source_url": "https://blog.google/intl/ko-kr/company-news/technology/tasks-in-gemini-free-new-features-kr/",
-      "image_source_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gugeul_jeminai_taeseukeuTask.width-1300.png",
-      "image_local_path": "assets/case/2026-11-19/gemini_tasks.png"
+      "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967828",
+      "image_source_url": "https://www.korea.kr/newsWeb/resources/attaches/2026.07/08/after3(1).jpg",
+      "image_local_path": "assets/case/2026-11-20/ubion_ai.jpg"
     },
     {
-      "name": "Inha University Hospital Gemini",
+      "name": "UNIST AI workforce",
       "region": "KR",
-      "source_url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044653",
-      "image_source_url": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044653_3048652_454_v150.jpg",
-      "image_local_path": "assets/case/2026-11-19/inha_gemini.jpg"
+      "source_url": "https://www.aitimes.kr/news/articleView.html?idxno=42808",
+      "image_source_url": "https://cdn.aitimes.kr/news/thumbnail/202611/42808_64307_2237_v150.jpg",
+      "image_local_path": "assets/case/2026-11-20/unist_ai.jpg"
     },
     {
-      "name": "AI exam cheating response",
+      "name": "SKT factory logistics",
       "region": "KR",
-      "source_url": "https://www.yna.co.kr/view/AKR20261118115300530",
-      "image_source_url": "https://img6.yna.co.kr/photo/yna/YH/2026/10/13/PYH2026101308410001300_P4.jpg",
-      "image_local_path": "assets/case/2026-11-19/ai_exam.jpg"
+      "source_url": "https://www.aitimes.kr/news/articleView.html?idxno=42785",
+      "image_source_url": "https://cdn.aitimes.kr/news/thumbnail/202611/42785_64280_255_v150.jpg",
+      "image_local_path": "assets/case/2026-11-20/skt_factory.jpg"
+    },
+    {
+      "name": "ChatGPT live dictation",
+      "region": "KR",
+      "source_url": "https://www.aitimes.com/news/articleView.html?idxno=217580",
+      "image_source_url": "https://cdn.aitimes.com/news/photo/202611/217580_221868_4049.png",
+      "image_local_path": "assets/case/2026-11-20/chatgpt_dictation.png"
     }
   ]
 }
