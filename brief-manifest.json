@@ -1,46 +1,46 @@
 {
-  "date": "2026-11-23",
-  "title": "AI가 더 해낼수록, 검증을 설계하자",
-  "html": "archive/2026-11-23/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-23/index.html?kakao=20261123-ko-v1",
-  "og_image_path": "assets/og-2026-11-23-v1.png",
-  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-23-v1.png",
-  "vertical_image_path": "assets/brief-2026-11-23-1080x1920.png",
+  "date": "2026-11-24",
+  "title": "AI가 답할수록, 검증 비용을 설계하자",
+  "html": "archive/2026-11-24/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-24/index.html?kakao=20261124-ko-v1",
+  "og_image_path": "assets/og-2026-11-24-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-24-v1.png",
+  "vertical_image_path": "assets/brief-2026-11-24-1080x1920.png",
   "cases": [
     {
-      "name": "Claude × Riemann hypothesis",
+      "name": "Gemini API file slicing",
       "region": "GLOBAL",
-      "source_url": "https://www.hani.co.kr/arti/economy/it/1288492.html",
-      "image_source_url": "https://flexible.img.hani.co.kr/flexible/normal/860/574/imgdb/original/2026/1122/20261122501382.webp",
-      "image_local_path": "assets/case/2026-11-23/riemann.webp"
+      "source_url": "https://www.unite.ai/ko/google-adds-file-slicing-and-native-office-support-to-gemini-api/",
+      "image_source_url": "https://www.unite.ai/wp-content/uploads/2026/11/google-adds-file-slicing-and-native-office-support-to-gemini-api.jpg",
+      "image_local_path": "assets/case/2026-11-24/geminiapi.jpg"
     },
     {
-      "name": "GPT-Live 1.1",
-      "region": "GLOBAL",
-      "source_url": "https://www.aitimes.com/news/articleView.html?idxno=217655",
-      "image_source_url": "https://cdn.aitimes.com/news/photo/202611/217655_221974_3217.jpg",
-      "image_local_path": "assets/case/2026-11-23/gptlive.jpg"
-    },
-    {
-      "name": "Gemini wildfire radio",
+      "name": "Hiworker AI interpreter",
       "region": "KR",
-      "source_url": "https://www.aitimes.kr/news/articleView.html?idxno=42839",
-      "image_source_url": "https://cdn.aitimes.kr/news/thumbnail/202611/42839_64340_5330_v150.jpg",
-      "image_local_path": "assets/case/2026-11-23/wildfire.jpg"
+      "source_url": "https://www.yna.co.kr/view/AKR20261123108700017",
+      "image_source_url": "https://img3.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123108700017_02_i_P4.jpg",
+      "image_local_path": "assets/case/2026-11-24/hiworker.jpg"
     },
     {
-      "name": "AI cheating retest",
+      "name": "AI verification cost",
       "region": "KR",
-      "source_url": "https://www.joongang.co.kr/article/25480781",
-      "image_source_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/23/8e135670-fc27-452f-bb32-707df566a713.jpg",
-      "image_local_path": "assets/case/2026-11-23/exam.jpg"
+      "source_url": "https://www.hankyung.com/article/2026112350401",
+      "image_source_url": "https://img.hankyung.com/photo/202611/AA.46520367.1.jpg",
+      "image_local_path": "assets/case/2026-11-24/verification.jpg"
     },
     {
-      "name": "AI bubble market shock",
+      "name": "AI assessment redesign",
       "region": "KR",
-      "source_url": "https://www.hankyung.com/article/2026112225121",
-      "image_source_url": "https://img.hankyung.com/photo/202611/ZA.46498175.1.jpg",
-      "image_local_path": "assets/case/2026-11-23/bubble.jpg"
+      "source_url": "https://www.joongang.co.kr/article/25480923",
+      "image_source_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/23/a4db97d0-c525-4ed8-a6ee-7463363d91db.jpg",
+      "image_local_path": "assets/case/2026-11-24/exam.jpg"
+    },
+    {
+      "name": "People-H humanoid surgery",
+      "region": "KR",
+      "source_url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867692_37012.html",
+      "image_source_url": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/23/today_20261123_063439_2_4_Large.jpg",
+      "image_local_path": "assets/case/2026-11-24/robot.jpg"
     }
   ]
 }
