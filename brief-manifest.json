@@ -1,9 +1,44 @@
 {
-  "date": "2026-11-26",
-  "title": "AI가 일상에 스며들수록, 통제권이 경쟁력이다",
-  "html": "archive/2026-11-26/index.html",
-  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-26/index.html",
-  "vertical_image_path": "assets/brief-2026-11-26-1080x1920.svg",
-  "article_count": 26,
-  "linked_articles": 25
+  "date": "2026-11-27",
+  "title": "AI의 경쟁력, 성능을 넘어 비용과 신뢰로",
+  "html": "archive/2026-11-27/index.html",
+  "published_url": "https://vidavida1970.github.io/MKT_Brief/archive/2026-11-27/index.html?kakao=20261127-ko-v1",
+  "og_image_path": "assets/og-2026-11-27-v1.png",
+  "og_image_url": "https://vidavida1970.github.io/MKT_Brief/assets/og-2026-11-27-v1.png",
+  "vertical_image_path": "assets/brief-2026-11-27-1080x1920.png",
+  "article_count": 21,
+  "case_count": 5,
+  "image_status": "editorial metric graphics; actual case photo permissions and files unverified",
+  "cases": [
+    {
+      "name": "앤트로픽, AI 서비스의 인프라 효율 개선",
+      "region": "GLOBAL",
+      "source_url": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "related_source_url": "https://byline.network/2026/11/26-667/"
+    },
+    {
+      "name": "EBS AI이솦, 전 국민 AI 교육 기반 확대",
+      "region": "KR",
+      "source_url": "https://global.ebs.co.kr/board/bbs?boardId=31&boardTypeId=1&cmd=view&no=3&pageNo=1&postId=30005677458&searchCondition=title&searchKeyword=&tabVal=&uri=",
+      "related_source_url": "https://www.newswire.co.kr/newsRead.php?no=1047971"
+    },
+    {
+      "name": "보건의료데이터 활용 기준 개정",
+      "region": "KR",
+      "source_url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156790948&pWise=mSub&pWiseSub=C2",
+      "related_source_url": "https://www.hitnews.co.kr/news/articleViewAmp.html?idxno=81118"
+    },
+    {
+      "name": "네이버 KMed-31B, 의료 특화 AI 평가 성과",
+      "region": "KR",
+      "source_url": "https://www.hankyung.com/article/202611261907i",
+      "related_source_url": "https://www.hankyung.com/article/2026112631771"
+    },
+    {
+      "name": "마이크로소프트, AI 확장과 통제력의 균형",
+      "region": "GLOBAL",
+      "source_url": "https://news.microsoft.com/source/asia/2026/11/26/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-ai-%EA%B0%80%EC%B9%98-%ED%99%95%EC%9E%A5%EA%B3%BC-%ED%86%B5%EC%A0%9C%EB%A0%A5-%EC%9C%A0%EC%A7%80-%EC%9C%84%ED%95%9C-%ED%95%B5%EC%8B%AC/?lang=ko",
+      "related_source_url": "https://news.microsoft.com/source/2026/11/17/microsoft-and-organizations-across-industries-launch-ai-transparency-initiative-to-strengthen-enterprise-trust-in-ai-models-and-agents/"
+    }
+  ]
 }
